@@ -1,5 +1,5 @@
 # hello-world
-My first git repo
+My first github repo
 
 Hi, my name is yerlanmad.
 I'm learning JavaScript.
