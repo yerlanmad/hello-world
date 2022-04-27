@@ -1,0 +1,1238 @@
+[
+  {
+    "id": 92589431,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый(ая) племянник/племянница №3",
+    "code": "",
+    "shortName": "Предполагаемый(ая) племянник/племянница №3",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 214954713,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Отделяемое придаточных пазух носа",
+    "code": ""
+  },
+  {
+    "id": 92589390,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый(ая) дедушка/бабушка №3",
+    "code": "",
+    "shortName": "Предполагаемый(ая) дедушка/бабушка №3",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 92589393,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый(ая) дядя/тётя №2",
+    "code": "",
+    "shortName": "Предполагаемый(ая) дядя/тётя №2",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 214429837,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "пищевод (замороженный срез)",
+    "code": "",
+    "shortName": "пищевод"
+  },
+  {
+    "id": 92589319,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемая мать №3",
+    "code": "",
+    "shortName": "Предполагаемая мать №3",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 171694496,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мочеточник",
+    "code": ""
+  },
+  {
+    "id": 92589427,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый(ая) племянник/племянница №2",
+    "code": "",
+    "shortName": "Предполагаемый(ая) племянник/племянница №2",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 92589384,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый(ая) внук/внучка №3",
+    "code": "",
+    "shortName": "Предполагаемый(ая) внук/внучка №3",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 128481093,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Заключение",
+    "code": ""
+  },
+  {
+    "id": 92589423,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый(ая) дядя/тётя №3",
+    "code": "",
+    "shortName": "Предполагаемый(ая) дядя/тётя №3",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 214752195,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Кровь с ЭДТА",
+    "code": "",
+    "shortName": "сыв",
+    "containerTypeCode": "3",
+    "containerTypeId": 48205726
+  },
+  {
+    "id": 214429795,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "кожа (парфиновый срез)",
+    "code": "",
+    "shortName": "кожа"
+  },
+  {
+    "id": 95174716,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Образец №2",
+    "code": "",
+    "shortName": "Образец №2",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 3703337,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "моча",
+    "code": "",
+    "shortName": "МочаОбщ"
+  },
+  {
+    "id": 214952084,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Смыв",
+    "code": ""
+  },
+  {
+    "id": 214954785,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Соскоб с полости рта",
+    "code": "",
+    "containerTypeCode": "20",
+    "containerTypeId": 127279520
+  },
+  {
+    "id": 214723773,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "тестовый",
+    "code": ""
+  },
+  {
+    "id": 214674766,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Соскоб с уретры",
+    "code": "",
+    "containerTypeCode": "9",
+    "containerTypeId": 48373266
+  },
+  {
+    "id": 214954817,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Отделяемое левого уха",
+    "code": ""
+  },
+  {
+    "id": 214429851,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "толстый кишечник (замороженный срез)",
+    "code": "",
+    "shortName": "толстый кишечник"
+  },
+  {
+    "id": 95190750,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Специальный образец",
+    "code": "",
+    "shortName": "Специальный образец",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 189991618,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Кровь с ЭДТА",
+    "code": "",
+    "shortName": "сыв",
+    "containerTypeCode": "3",
+    "containerTypeId": 48205726
+  },
+  {
+    "id": 95174709,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Образец №1",
+    "code": "",
+    "shortName": "Образец №1",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 214752239,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Кровь с ЭДТА",
+    "code": "",
+    "shortName": "сыв",
+    "containerTypeCode": "3",
+    "containerTypeId": 48205726
+  },
+  {
+    "id": 11510899,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мазок зев/нос",
+    "code": "",
+    "shortName": "ZEV_NOS"
+  },
+  {
+    "id": 214429833,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "желудк (замороженный срез)",
+    "code": "",
+    "shortName": "желудк"
+  },
+  {
+    "id": 92589315,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемая мать №2",
+    "code": "",
+    "shortName": "Предполагаемая мать №2",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 214429820,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "толстый кишечник (парфиновый срез)",
+    "code": "",
+    "shortName": "толстый кишечник"
+  },
+  {
+    "id": 92589328,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый отец №3",
+    "code": "",
+    "shortName": "Предполагаемый отец №3",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 95174730,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Образец №4",
+    "code": "",
+    "shortName": "Образец №4",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 214429823,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "кожа (замороженный срез)",
+    "code": "",
+    "shortName": "кожа"
+  },
+  {
+    "id": 171694518,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мазок из конъюктивы",
+    "code": ""
+  },
+  {
+    "id": 171694465,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Язык",
+    "code": ""
+  },
+  {
+    "id": 183641615,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Правый(ая)",
+    "code": "",
+    "shortName": "прав."
+  },
+  {
+    "id": 171694508,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Уретра",
+    "code": ""
+  },
+  {
+    "id": 183642546,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Левый(ая)",
+    "code": "",
+    "shortName": "лев."
+  },
+  {
+    "id": 214900091,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Тест-карта",
+    "code": ""
+  },
+  {
+    "id": 214742749,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "грибок ногтей",
+    "code": "",
+    "shortName": "грибок ногтей"
+  },
+  {
+    "id": 214841632,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Самозабор из носо и ротоглотки",
+    "code": "",
+    "shortName": "Мұрын және ауызжұтқыншақтан өздігінен жағынды алу",
+    "containerTypeCode": "20",
+    "containerTypeId": 127279520
+  },
+  {
+    "id": 92589322,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый отец №2",
+    "code": "",
+    "shortName": "Предполагаемый отец №2",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 214954747,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Отделяемое зева",
+    "code": ""
+  },
+  {
+    "id": 171694478,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Щеки",
+    "code": ""
+  },
+  {
+    "id": 189991636,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Кровь с ЭДТА",
+    "code": "",
+    "shortName": "сыв",
+    "containerTypeCode": "3",
+    "containerTypeId": 48205726
+  },
+  {
+    "id": 214946746,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Парафиновый блок",
+    "code": ""
+  },
+  {
+    "id": 92589336,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый ребенок №3",
+    "code": "",
+    "shortName": "Предполагаемый ребенок №3",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 92589387,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый(ая) дедушка/бабушка №2",
+    "code": "",
+    "shortName": "Предполагаемый(ая) дедушка/бабушка №2",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 214954727,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Отделяемое коньюктивы левого глаз",
+    "code": ""
+  },
+  {
+    "id": 214854156,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Капиллярная кровь",
+    "code": "",
+    "shortName": "Капиллярлық қан"
+  },
+  {
+    "id": 214954730,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Отделяемое коньюктивы правого глаз",
+    "code": ""
+  },
+  {
+    "id": 214954736,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Отделяемое уретры",
+    "code": ""
+  },
+  {
+    "id": 214954733,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Отделяемое носа",
+    "code": ""
+  },
+  {
+    "id": 189991592,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Кровь с ЭДТА",
+    "code": "",
+    "shortName": "сыв",
+    "containerTypeCode": "3",
+    "containerTypeId": 48205726
+  },
+  {
+    "id": 13697091,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "отделяемое",
+    "code": "",
+    "shortName": "отделяем"
+  },
+  {
+    "id": 95174723,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Образец №3",
+    "code": "",
+    "shortName": "Образец №3",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 92589331,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый ребенок №2",
+    "code": "",
+    "shortName": "Предполагаемый ребенок №2",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 214954778,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Суставная жидкость",
+    "code": ""
+  },
+  {
+    "id": 214754343,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мокрота 3 порция",
+    "code": "",
+    "shortName": "Мокр",
+    "containerTypeCode": "10",
+    "containerTypeId": 48373372
+  },
+  {
+    "id": 214429806,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "пищевод (парфиновый срез)",
+    "code": "",
+    "shortName": "пищевод"
+  },
+  {
+    "id": 92589341,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый родственник №2",
+    "code": "",
+    "shortName": "Предполагаемый родственник №2",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 214754339,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мокрота 2 порция",
+    "code": "",
+    "shortName": "Мокр",
+    "containerTypeCode": "10",
+    "containerTypeId": 48373372
+  },
+  {
+    "id": 214429801,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "желудк (парфиновый срез)",
+    "code": "",
+    "shortName": "желудк"
+  },
+  {
+    "id": 214674754,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Соскоб (другая локализация)",
+    "code": "",
+    "containerTypeCode": "9",
+    "containerTypeId": 48373266
+  },
+  {
+    "id": 13697115,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "пунктат",
+    "code": "",
+    "shortName": "пунктЩЖ"
+  },
+  {
+    "id": 214954769,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Спинномозговая жидкость",
+    "code": ""
+  },
+  {
+    "id": 92589344,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый родственник №3",
+    "code": "",
+    "shortName": "Предполагаемый родственник №3",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 214954762,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Биоптаты тканей плаценты",
+    "code": "",
+    "containerTypeCode": "4",
+    "containerTypeId": 48205727
+  },
+  {
+    "id": 92589349,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый(ая) брат/сестра №2",
+    "code": "",
+    "shortName": "Предполагаемый(ая) брат/сестра №2",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 92589356,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый(ая) внук/внучка №2",
+    "code": "",
+    "shortName": "Предполагаемый(ая) внук/внучка №2",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 214754335,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мокрота 1 порция",
+    "code": "",
+    "shortName": "Мокр",
+    "containerTypeCode": "10",
+    "containerTypeId": 48373372
+  },
+  {
+    "id": 92589352,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Предполагаемый(ая) брат/сестра №3",
+    "code": "",
+    "shortName": "Предполагаемый(ая) брат/сестра №3",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 8579061,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Отделяемое из цервикального канала",
+    "code": ""
+  },
+  {
+    "id": 214668576,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Моча (коричневая крышка)",
+    "code": "",
+    "shortName": "моча кор"
+  },
+  {
+    "id": 8579189,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Сок простаты",
+    "code": ""
+  },
+  {
+    "id": 8579188,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Моча",
+    "code": "",
+    "containerTypeCode": "10",
+    "containerTypeId": 48373372
+  },
+  {
+    "id": 214954756,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мазок с  цервикального канала",
+    "code": ""
+  },
+  {
+    "id": 10018,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "кровь цельная",
+    "code": "",
+    "shortName": "кц"
+  },
+  {
+    "id": 214954752,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мазок с раневой поверхности",
+    "code": ""
+  },
+  {
+    "id": 15834,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "эякулят",
+    "code": "",
+    "shortName": "эякулят"
+  },
+  {
+    "id": 5780933,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "другое",
+    "code": ""
+  },
+  {
+    "id": 15833,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "секрет",
+    "code": "",
+    "shortName": "секрет"
+  },
+  {
+    "id": 13697116,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "пунктат",
+    "code": "",
+    "shortName": "пунктМЖ"
+  },
+  {
+    "id": 214954812,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Отделяемое правого уха",
+    "code": ""
+  },
+  {
+    "id": 8579076,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Желчь",
+    "code": "199",
+    "containerTypeCode": "20",
+    "containerTypeId": 127279520
+  },
+  {
+    "id": 6853653,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Кал",
+    "code": "200",
+    "containerTypeCode": "9",
+    "containerTypeId": 48373266
+  },
+  {
+    "id": 8579208,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Кал",
+    "code": "200",
+    "containerTypeCode": "8",
+    "containerTypeId": 48372848
+  },
+  {
+    "id": 8579203,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Кровь",
+    "code": "202"
+  },
+  {
+    "id": 8579187,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Mокрота",
+    "code": "203",
+    "shortName": "Қақырық"
+  },
+  {
+    "id": 3703331,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Моча по Нечипоренко",
+    "code": "204",
+    "shortName": "МочаНеч"
+  },
+  {
+    "id": 10017,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "моча",
+    "code": "204",
+    "shortName": "МочаБМ"
+  },
+  {
+    "id": 1315079,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Соскоб",
+    "code": "205",
+    "shortName": "соскоб",
+    "containerTypeCode": "6",
+    "containerTypeId": 48371116
+  },
+  {
+    "id": 165021055,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Соскоб (цитология)",
+    "code": "205",
+    "shortName": "соскоб(цит)",
+    "containerTypeCode": "20",
+    "containerTypeId": 127279520
+  },
+  {
+    "id": 13697022,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "мазок",
+    "code": "206",
+    "shortName": "МазокСП"
+  },
+  {
+    "id": 4876584,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "мазок",
+    "code": "206",
+    "shortName": "МазокСЧ",
+    "containerTypeCode": "12",
+    "containerTypeId": 48373572
+  },
+  {
+    "id": 13697017,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "мазок",
+    "code": "206",
+    "shortName": "МазокОтУ"
+  },
+  {
+    "id": 15832,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "мазок",
+    "code": "206",
+    "shortName": "Мазок",
+    "containerTypeCode": "11",
+    "containerTypeId": 48373535
+  },
+  {
+    "id": 8579178,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мазок с поверхности кожи",
+    "code": "212"
+  },
+  {
+    "id": 171694448,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Гортань",
+    "code": "217"
+  },
+  {
+    "id": 171694451,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Пищевод",
+    "code": "218"
+  },
+  {
+    "id": 171694454,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Кишечник",
+    "code": "220"
+  },
+  {
+    "id": 171694418,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Молочная железа. Правая",
+    "code": "225"
+  },
+  {
+    "id": 171694423,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Молочная железа. Левая",
+    "code": "226"
+  },
+  {
+    "id": 171694484,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Легкие",
+    "code": "227"
+  },
+  {
+    "id": 171694457,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Поджелудочная железа",
+    "code": "231"
+  },
+  {
+    "id": 171694493,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Почки",
+    "code": "233"
+  },
+  {
+    "id": 171694505,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мочевой пузырь",
+    "code": "237"
+  },
+  {
+    "id": 171694514,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мазок секрета предстательной железы",
+    "code": "238"
+  },
+  {
+    "id": 171694460,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Печень",
+    "code": "239"
+  },
+  {
+    "id": 171694481,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Слюнная железа",
+    "code": "261"
+  },
+  {
+    "id": 171694432,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Лимфоузел (1 пункция)",
+    "code": "262"
+  },
+  {
+    "id": 171694487,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Бронхи",
+    "code": "267"
+  },
+  {
+    "id": 8579040,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Отделяемое влагалища",
+    "code": "281"
+  },
+  {
+    "id": 8579190,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Сперма",
+    "code": "285"
+  },
+  {
+    "id": 7340925,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Сперма",
+    "code": "285"
+  },
+  {
+    "id": 8579124,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Синовидальная жидкость",
+    "code": "286"
+  },
+  {
+    "id": 8579184,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Биожидкости (экссудат, транссудат)",
+    "code": "287",
+    "containerTypeCode": "5",
+    "containerTypeId": 48370314
+  },
+  {
+    "id": 8579186,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Секрет левой молочной железы",
+    "code": "290"
+  },
+  {
+    "id": 8579185,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Секрет правой молочной железы",
+    "code": "291"
+  },
+  {
+    "id": 8579103,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Плевральная жидкость",
+    "code": "292"
+  },
+  {
+    "id": 106865250,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Смыв с пункционной иглы",
+    "code": "298"
+  },
+  {
+    "id": 214649273,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Венозная кровь",
+    "code": "363",
+    "shortName": "Венозная"
+  },
+  {
+    "id": 8579179,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Отделяемое с раневой поверхности",
+    "code": "366"
+  },
+  {
+    "id": 8579157,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мазок с конъюнктивы левого глаза",
+    "code": "368"
+  },
+  {
+    "id": 8579167,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мазок с конъюнктивы правого глаза",
+    "code": "369"
+  },
+  {
+    "id": 214674769,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Соскоб со слизистой цервикального канала",
+    "code": "385",
+    "containerTypeCode": "9",
+    "containerTypeId": 48373266
+  },
+  {
+    "id": 8579171,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мазок из правого уха",
+    "code": "394"
+  },
+  {
+    "id": 8579170,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мазок из левого уха",
+    "code": "395"
+  },
+  {
+    "id": 171694511,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мазок отделяемого уретры",
+    "code": "399"
+  },
+  {
+    "id": 92589311,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Буккальный мазок",
+    "code": "401",
+    "shortName": "Буккальный мазок",
+    "containerTypeCode": "19",
+    "containerTypeId": 92589231
+  },
+  {
+    "id": 125664742,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мазок с поверхности гастроскопа",
+    "code": "402",
+    "containerTypeCode": "6",
+    "containerTypeId": 48371116
+  },
+  {
+    "id": 91273892,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Соскоб из носа",
+    "code": "526",
+    "shortName": "СоскобНос",
+    "containerTypeCode": "7",
+    "containerTypeId": 48372038
+  },
+  {
+    "id": 214674757,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Соскоб с влагалища",
+    "code": "530",
+    "containerTypeCode": "9",
+    "containerTypeId": 48373266
+  },
+  {
+    "id": 214674760,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Соскоб с конъюнктивы глаза",
+    "code": "535",
+    "containerTypeCode": "9",
+    "containerTypeId": 48373266
+  },
+  {
+    "id": 10016,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "сыворотка",
+    "code": "585",
+    "shortName": "сарысу",
+    "containerTypeCode": "1",
+    "containerTypeId": 48205724
+  },
+  {
+    "id": 27668,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "кровь с ЭДТА",
+    "code": "585",
+    "shortName": "ЭДТА",
+    "containerTypeCode": "3",
+    "containerTypeId": 48205726
+  },
+  {
+    "id": 13697102,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "плазма",
+    "code": "586",
+    "shortName": "плазма",
+    "containerTypeCode": "4",
+    "containerTypeId": 48205727
+  },
+  {
+    "id": 15962,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "цитрат Na",
+    "code": "586",
+    "shortName": "цит Na",
+    "containerTypeCode": "2",
+    "containerTypeId": 48205725
+  },
+  {
+    "id": 8579022,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Мазок из носа",
+    "code": "589"
+  },
+  {
+    "id": 214769275,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Бронхоальвеолярный лаваж",
+    "code": "alveol",
+    "shortName": "Бронхоальвеолярлық лаваж",
+    "containerTypeCode": "8",
+    "containerTypeId": 48372848
+  },
+  {
+    "id": 214648506,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Li-гепариновая плазма",
+    "code": "geparin",
+    "containerTypeCode": "22",
+    "containerTypeId": 213634994
+  },
+  {
+    "id": 8579176,
+    "updateTime": "2022-04-19T04:46:06+06:00",
+    "updateVersion": 32,
+    "name": "Мазок из полости рта",
+    "code": "ROT"
+  },
+  {
+    "id": 214769270,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Cоскоб с носоглотки",
+    "code": "ScrapingNasopharynx",
+    "shortName": "Жұтқыншақтан жағынды",
+    "containerTypeCode": "20",
+    "containerTypeId": 127279520
+  },
+  {
+    "id": 214769265,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Cоскоб с носо- и ротоглотки",
+    "code": "ScrapingNasoph-Oroph",
+    "shortName": "Жұтқыншақтан және ауыз жұтқыншақтан жағынды",
+    "containerTypeCode": "20",
+    "containerTypeId": 127279520
+  },
+  {
+    "id": 214674763,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Cоскоб из ротоглотки",
+    "code": "ScrapingOropharyngeal",
+    "shortName": "Ауыз жұтқыншақтан жағынды",
+    "containerTypeCode": "9",
+    "containerTypeId": 48373266
+  },
+  {
+    "id": 171694415,
+    "updateTime": "2022-04-19T04:46:06+06:00",
+    "updateVersion": 32,
+    "name": "Щитовидная железа. Перешеек",
+    "code": "ThyroidIsthmus"
+  },
+  {
+    "id": 171694412,
+    "updateTime": "2022-04-19T04:46:06+06:00",
+    "updateVersion": 32,
+    "name": "Щитовидная железа. Левая доля",
+    "code": "ThyroidLeftLobe"
+  },
+  {
+    "id": 171694317,
+    "updateTime": "2022-04-19T04:46:06+06:00",
+    "updateVersion": 32,
+    "name": "Щитовидная железа. Правая доля",
+    "code": "ThyroidRightLobe"
+  },
+  {
+    "id": 8579177,
+    "updateTime": "2022-04-19T04:46:06+06:00",
+    "updateVersion": 32,
+    "name": "Мазок из уретры",
+    "code": "URET"
+  },
+  {
+    "id": 8579010,
+    "updateTime": "2022-04-19T04:46:06+06:00",
+    "updateVersion": 32,
+    "name": "Мазок из зева",
+    "code": "ZEV"
+  }
+]

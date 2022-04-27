@@ -1,0 +1,1364 @@
+[
+  {
+    "id": 214772688,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: По эпидемиологическим показаниям",
+    "code": "AccordToEpidId_code",
+    "shortName": "AccordingToEpidemiologicalIndications",
+    "fieldType": 5,
+    "dictionaryCode": "AccordToEpidId",
+    "dictionaryValues":
+    [
+      {
+        "name": "Лица, госпитализированные в провизорный и инфекционный стационар с COVID-19",
+        "code": "1",
+        "shortName": "Persons hospitalized in a provisional and infectious diseases hospital for COVID-19"
+      },
+      {
+        "name": "Больные с ОРВИ и пневмониями",
+        "code": "2",
+        "shortName": "Sick Pneumonia Or ARVI"
+      },
+      {
+        "name": "Лица из числа близких контактов с больным COVID-19",
+        "code": "3",
+        "shortName": "Close Contact, with a patient with COVID-19"
+      },
+      {
+        "name": "Медицинские работники с респираторными симптомами и другими признаками, схожими с COVID-19",
+        "code": "4",
+        "shortName": "Healthcare workers with respiratory symptoms and other signs similar to COVID-19"
+      },
+      {
+        "name": "Другие",
+        "code": "5",
+        "shortName": "Other"
+      }
+    ]
+  },
+  {
+    "id": 2071902,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Заявка: Домашний адрес",
+    "code": "Address",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 214774984,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: Адрес организации(пациента)",
+    "code": "AdressOfStudyOrWork",
+    "shortName": "AdressOfStudyOrWork",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 32559162,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: БПР",
+    "code": "bpr",
+    "fieldType": 2,
+    "minValue": 0,
+    "maxValue": 1024,
+    "precision": 1
+  },
+  {
+    "id": 32559160,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: Шейная складка (ТВП)",
+    "code": "cervical_crease",
+    "fieldType": 2,
+    "minValue": 0,
+    "maxValue": 1024,
+    "precision": 1
+  },
+  {
+    "id": 214673043,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab:ТВП 2",
+    "code": "cervical_crease2",
+    "fieldType": 2,
+    "minValue": 0,
+    "maxValue": 1024,
+    "precision": 1
+  },
+  {
+    "id": 214780542,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: Контакты проводившего забор",
+    "code": "ContactWhoCollected",
+    "shortName": "ContactWhoCollected",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 32559154,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: КТР",
+    "code": "cps",
+    "fieldType": 2,
+    "minValue": 0,
+    "maxValue": 1024,
+    "precision": 2
+  },
+  {
+    "id": 214673041,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: КТР2",
+    "code": "cps2",
+    "fieldType": 2,
+    "minValue": 0,
+    "maxValue": 1024,
+    "precision": 2
+  },
+  {
+    "id": 32559135,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: Диабет",
+    "code": "diabetes",
+    "shortName": "diabetes",
+    "fieldType": 3
+  },
+  {
+    "id": 214692259,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка:DiagnosisCode",
+    "code": "DiagnosisCode",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 1364841,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка: Диагноз",
+    "code": "DiagnosisName",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 214820125,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: Номер документа для резидента РК",
+    "code": "DocumentNumber",
+    "shortName": "DocumentNumberRK",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 214718625,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Возраст донора",
+    "code": "donor_age",
+    "fieldType": 2,
+    "precision": 0
+  },
+  {
+    "id": 214718611,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab:Донорская яйцеклетка/эмбрион",
+    "code": "eggdonor",
+    "fieldType": 3
+  },
+  {
+    "id": 214692262,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка: ExternalSystem",
+    "code": "ExternalSystem",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 214775410,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: Семейное положение(спр)",
+    "code": "FamilyStatus_Dic_code",
+    "shortName": "FamilyStatus_Dic",
+    "fieldType": 5,
+    "dictionaryCode": "FamilyStatus",
+    "dictionaryValues":
+    [
+      {
+        "name": "женат/замужем",
+        "code": "1"
+      },
+      {
+        "name": "холост/не замужем",
+        "code": "2"
+      }
+    ]
+  },
+  {
+    "id": 32559152,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: Число плодов",
+    "code": "fetus_number",
+    "fieldType": 3
+  },
+  {
+    "id": 214692265,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка: FinanceSourceCode",
+    "code": "FinanceSourceCode",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 214772903,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: Ф.И.О проводившего забор",
+    "code": "FIOWhoCollected",
+    "shortName": "FIOWhoCollected",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 92593015,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Дополнительный образец 1: Дата рождения",
+    "code": "FirstSample_BirthDate",
+    "fieldType": 4
+  },
+  {
+    "id": 92593017,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Дополнительный образец 1: Имя",
+    "code": "FirstSampleFirstName",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 92593036,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Дополнительный образец 1: Фамилия",
+    "code": "FirstSampleLastName",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 92593027,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Дополнительный образец 1: Отчество",
+    "code": "FirstSampleMiddleName",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 92593033,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Дополнительный образец 1: Степень родства",
+    "code": "FirstSampleRelation_code",
+    "fieldType": 5,
+    "dictionaryCode": "relation",
+    "dictionaryValues":
+    [
+      {
+        "name": "Предполагаемый отец",
+        "code": "1",
+        "shortName": "Отец"
+      },
+      {
+        "name": "Предполагаемая дочь",
+        "code": "4",
+        "shortName": "Дочь"
+      },
+      {
+        "name": "Предполагаемая бабушка",
+        "code": "14",
+        "shortName": "hfhjfhj"
+      },
+      {
+        "name": "Предполагаемая мать",
+        "code": "2",
+        "shortName": "Мать"
+      },
+      {
+        "name": "Предполагаемая сестра",
+        "code": "13"
+      },
+      {
+        "name": "Предполагаемая тётя",
+        "code": "9"
+      },
+      {
+        "name": "Предполагаемый брат",
+        "code": "12"
+      },
+      {
+        "name": "Предполгаемая внучка",
+        "code": "7"
+      },
+      {
+        "name": "Предполагаемый внук",
+        "code": "6"
+      },
+      {
+        "name": "Предполгаемый племянник",
+        "code": "10"
+      },
+      {
+        "name": "Предполгаемая племянница",
+        "code": "11"
+      },
+      {
+        "name": "Предполагаемый дедушка",
+        "code": "5"
+      },
+      {
+        "name": "Предполагаемый дядя",
+        "code": "8"
+      },
+      {
+        "name": "Предполагаемый сын",
+        "code": "3",
+        "shortName": "Сын"
+      }
+    ]
+  },
+  {
+    "id": 92593030,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Дополнительный образец 1: Пол",
+    "code": "FirstSampleSex",
+    "fieldType": 5,
+    "dictionaryCode": "Gender",
+    "dictionaryValues":
+    [
+      {
+        "name": "М",
+        "code": "1"
+      },
+      {
+        "name": "Ж",
+        "code": "2"
+      }
+    ]
+  },
+  {
+    "id": 214772884,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: С профилактической целью",
+    "code": "ForPreventivePurposes_code",
+    "shortName": "ForPreventivePurposes",
+    "fieldType": 5,
+    "dictionaryCode": "ForPreventivePurposes",
+    "dictionaryValues":
+    [
+      {
+        "name": "Другие",
+        "code": "7",
+        "shortName": "Other"
+      },
+      {
+        "name": "Граждане, въезжающие в Казахстан из-за рубежа , через пункты пропуска Государственной границы на железнодорожном, морском, речном транспорте и автопереходах",
+        "code": "8",
+        "shortName": "Citizens entering Kazakhstan from abroad, through checkpoints of the State Border on rail, sea, river transport and road crossin"
+      },
+      {
+        "name": "Лица, прибывающие из-за рубежа авиарейсами",
+        "code": "9",
+        "shortName": "Persons arriving from abroad by air"
+      },
+      {
+        "name": "Лица, призываемые на срочную воинскую службу на сборных пунктах и молодое пополнение по прибытию в воинские части",
+        "code": "10",
+        "shortName": "Persons called up for urgent military service at assembly points and young replenishment upon arrival at military units"
+      }
+    ]
+  },
+  {
+    "id": 214718643,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Дата заморозки",
+    "code": "frozendate",
+    "fieldType": 4,
+    "strict": true
+  },
+  {
+    "id": 214718618,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Замороженная яйцеклетка",
+    "code": "frozenegg",
+    "fieldType": 3
+  },
+  {
+    "id": 214772901,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: Наличие клинических симптомов",
+    "code": "HasSymptomsCOVID",
+    "shortName": "HasSymptomsCOVID",
+    "fieldType": 3
+  },
+  {
+    "id": 2071904,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка: Код контингента ВИЧ",
+    "code": "HivCode",
+    "fieldType": 5,
+    "dictionaryCode": "HivCodes",
+    "dictionaryValues":
+    [
+      {
+        "name": "102 - ПИН (потребители инъекционных наркотиков)|102 - IDU (injecting drug users)",
+        "code": "102"
+      },
+      {
+        "name": "100 - Граждане Республики Казахстан (всего), в том числе:|100 - Citizens of the Republic of Kazakhstan (total), including:",
+        "code": "100"
+      },
+      {
+        "name": "101 - Лица, бывшие в контакте с ВИЧ – инфицированными или больными  СПИД, в том числе:|101 - Persons who have been in contact with HIV or AIDS, including:",
+        "code": "101"
+      },
+      {
+        "name": "101.1 - половой контакт|101.1 - polovoy kontakt",
+        "code": "101.1"
+      },
+      {
+        "name": "113.2 - Вирусный гепатит В|113.2 - Viral hepatitis B",
+        "code": "113.2"
+      },
+      {
+        "name": "122 - Дети, родившиеся от ВИЧ - инфицированных матерей|122 - Children born to HIV-infected mothers",
+        "code": "122"
+      },
+      {
+        "name": "108.1 - Доноры  крови и её компонентов|108.1 - Donors of blood and its components",
+        "code": "108.1"
+      },
+      {
+        "name": "111 - Военнослужащие (всего), в том числе:|111 - Military personnel (total), including:",
+        "code": "111"
+      },
+      {
+        "name": "106.2 - дети, обследованные при проведении эпидрасследования|106.2 - children examined during the epidemiological investigation",
+        "code": "106.2"
+      },
+      {
+        "name": "200.3 - Беременные|200.3 - Pregnant",
+        "code": "200.3"
+      },
+      {
+        "name": "109.1 - 1-ый тест  (при постановке на учет)|109.1 - 1st test (upon registration)",
+        "code": "109.1"
+      },
+      {
+        "name": "110.2 - Реципиенты, обследованные после гемотрансфузии и трансплантации органов, тканей, половых, фетальных клеток|110.2 - Recipients examined after blood transfusion and transplantation of organs, tissues, reproductive cells, fetal cells",
+        "code": "110.2"
+      },
+      {
+        "name": "101.2 - совместное введение наркотиков|101.2 - co-injection of drugs",
+        "code": "101.2"
+      },
+      {
+        "name": "110 -Реципиенты компонентов крови и других биологических материалов (всего), в том числе:|110 - Recipients of blood components and other biological materials (total), including:",
+        "code": "110"
+      },
+      {
+        "name": "109.3 - тестирование в  род. доме|109.3 - testing at the maternity hospital",
+        "code": "109.3"
+      },
+      {
+        "name": "105 - РС (работники  секса)|105 - MS (sex workers)",
+        "code": "105"
+      },
+      {
+        "name": "107.1 - медицинские работники|107.1 - Medical professionals",
+        "code": "107.1"
+      },
+      {
+        "name": "110.1 - Реципиенты, обследованные до гемотрансфузии и трансплантации органов, тканей, половых, фетальных клеток|110.1 - Recipients examined before blood transfusion and transplantation of organs, tissues, reproductive cells, fetal cells",
+        "code": "110.1"
+      },
+      {
+        "name": "107.2 - другие|107.2 - others",
+        "code": "107.2"
+      },
+      {
+        "name": "113.3 - Вирусный гепатит С|113.2 - Viral hepatitis C",
+        "code": "113.3"
+      },
+      {
+        "name": "111.2 - лица, призываемые на военную службу,   поступающие на службу по контракту, абитуриенты   военных учебных заведений.|111.2 - persons called up for military service, entering service under a contract, applicants to military educational institutions.",
+        "code": "111.2"
+      },
+      {
+        "name": "112.2 - Следственно арестованные, обследованные через 6 месяцев в СИ|112.2 - Arrested persons under investigation, examined after 6 months in RP",
+        "code": "112.2"
+      },
+      {
+        "name": "106.1 - взрослые, обследованные при проведении эпидрасследования|106.1 - adults examined during the epidemiological investigation",
+        "code": "106.1"
+      },
+      {
+        "name": "118 - Лица, содержащиеся в ИВС, ЦВИАРНах, приемниках-распределителях|118 - Persons held in temporary holding facilities, receiving-distribution centers",
+        "code": "118"
+      },
+      {
+        "name": "200.2 - Лица, содержащиеся в следственных изоляторах (СИ)  и исправительных учреждениях (ИУ)|200.2 - Persons held in remand prison (RPs) and correctional institutions (CIs)",
+        "code": "200.2"
+      },
+      {
+        "name": "103 - МСМ (мужчины, имеющие секс с мужчинами)|103 - MSM (men who have sex with men)",
+        "code": "103"
+      },
+      {
+        "name": "111.1 - Военнослужащие в подразделениях  Министерства обороны, других войсках и воинских формированиях Республики Казахстан|111.1 - Servicemen in the units of the Ministry of Defense, other troops and military formations of the Republic of Kazakhstan",
+        "code": "111.1"
+      },
+      {
+        "name": "116 - Лица, имеющие квоты для лечения в специализированных клиниках|116 - Persons with quotas for treatment in specialized clinics",
+        "code": "116"
+      },
+      {
+        "name": "121 - Лица, обратившиеся для участия в донорстве, от которых не были заготовлены компоненты крови|121 - Persons who applied for participation in donation, from whom blood components were not prepared",
+        "code": "121"
+      },
+      {
+        "name": "109.4 - прерывание беременности|109.4 - termination of pregnancy",
+        "code": "109.4"
+      },
+      {
+        "name": "112 - Лица, содержащиеся в следственных изоляторах (СИ)  и исправительных учреждениях (ИУ), всего:|112 - Persons held in a remand prison (RP) and a correctional institution (CF), total:",
+        "code": "112"
+      },
+      {
+        "name": "123 - Дети, направленные в дома ребенка, интернаты, организации социальной защиты|123 - Children sent to orphanages, boarding schools, social protection organizations",
+        "code": "123"
+      },
+      {
+        "name": "115 - Лица, выезжающие за границу (для получения сертификата)|115 - Persons traveling abroad (to obtain a certificate)",
+        "code": "115"
+      },
+      {
+        "name": "108.2 - Доноры половых клеток (гамет) и эмбрионов|108.2 - Donors of germ cells (gametes) and embryos",
+        "code": "108.2"
+      },
+      {
+        "name": "113 - Обследованные по клиническим показаниям (взрослые) всего, в т.ч.:|113 - Examined for clinical indications (adults) total, including:",
+        "code": "113"
+      },
+      {
+        "name": "112.3 - Осужденные, обследованные при поступлении в ИУ|112.3 - Convicts, examination upon admission to the CF",
+        "code": "112.3"
+      },
+      {
+        "name": "124 - Прочие лица, не относящихся ни к одному из вышеперечисленных кодов|124 - Other persons not related to any of the above codes",
+        "code": "124"
+      },
+      {
+        "name": "108.3 - Доноры  тканей и органов|108.3 - Tissue and organ donors",
+        "code": "108.3"
+      },
+      {
+        "name": "200 - Иностранные граждане (всего), в том числе:|200 - Foreign citizens (total), including:",
+        "code": "200"
+      },
+      {
+        "name": "112.4 - Осужденные, обследованные через 6  и более месяцев в ИУ|112.4 - Convicts examined after 6 months or more in a CF",
+        "code": "112.4"
+      },
+      {
+        "name": "114 - Обследованные  анонимно|114 - Surveyed anonymously",
+        "code": "114"
+      },
+      {
+        "name": "113.1 - туберкулез легочный и внелегочный|113.1 - pulmonary and extrapulmonary tuberculosis",
+        "code": "113.1"
+      },
+      {
+        "name": "104 - Больные, лица с симптомами  ИППП (инфекциями, передающимися половым путем)|104 - Patients, persons with symptoms of STIs (sexually transmitted infections)",
+        "code": "104"
+      },
+      {
+        "name": "117 - Дети, обследованные по клиническим показаниям, всего:|117 - Children examined for clinical indications, total:",
+        "code": "117"
+      },
+      {
+        "name": "300 - Всего обследованных лиц|300 - Total examined persons",
+        "code": "300"
+      },
+      {
+        "name": "400 - Всего сделано анализов|400 - Всего сделано анализов",
+        "code": "400"
+      },
+      {
+        "name": "106 - Лица, обследованные при проведении эпидрасследования (всего), в том числе:|106 - Persons examined during the epidemiological investigation (total), including:",
+        "code": "106"
+      },
+      {
+        "name": "200.1 - Уязвимые группы (ПИН, РС, МСМ)|200.1 - Vulnerable groups (IDUs, SWs, MSM)",
+        "code": "200.1"
+      },
+      {
+        "name": "109.2 - 2-ой тест|109.2 - 2nd test",
+        "code": "109.2"
+      },
+      {
+        "name": "108 - Доноры (крови и других биологических жидкостей,  органов и тканей) всего, в том числе:|108 - Donors (blood and other biological fluids, organs and tissues) of total, including:",
+        "code": "108"
+      },
+      {
+        "name": "109 - Беременные (всего):|109 - Pregnant (total):",
+        "code": "109"
+      },
+      {
+        "name": "113.4 - Другие клинические состояния, возможные при ВИЧ- инфекции|113.4 - Other clinical conditions possible with HIV infection",
+        "code": "113.4"
+      },
+      {
+        "name": "120 - Медицинские работники|120 - Medical workers",
+        "code": "120"
+      },
+      {
+        "name": "107 - Лица, обследованные при аварийных ситуациях (всего), в том числе:|107 - Persons examined in emergency situations (total), including:",
+        "code": "107"
+      },
+      {
+        "name": "112.1 - Следственно арестованные, обследованные при поступлении в  СИ|112.1 - Persons arrested under investigation, examined upon admission to the RP",
+        "code": "112.1"
+      }
+    ]
+  },
+  {
+    "id": 11995595,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка: ИИН",
+    "code": "iin",
+    "fieldType": 1,
+    "maxLength": 12
+  },
+  {
+    "id": 214684902,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Дата последних месячных",
+    "code": "lmpdate",
+    "fieldType": 4,
+    "strict": true
+  },
+  {
+    "id": 214676647,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Метод",
+    "code": "method_code",
+    "shortName": "method",
+    "fieldType": 5,
+    "dictionaryCode": "method",
+    "dictionaryAllowCreate": true,
+    "dictionaryValues":
+    [
+      {
+        "name": "Биометрический",
+        "code": "3",
+        "shortName": "3"
+      },
+      {
+        "name": "Другой",
+        "code": "2",
+        "shortName": "2"
+      },
+      {
+        "name": "По последним месячным",
+        "code": "1",
+        "shortName": "1"
+      },
+      {
+        "name": "Авто",
+        "code": "0",
+        "shortName": "0"
+      }
+    ]
+  },
+  {
+    "id": 214730337,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Комментарий к методу",
+    "code": "methodcomm",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 33585077,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: Срок беременности на текущую дату (дней)",
+    "code": "now_day",
+    "fieldType": 2,
+    "minValue": 0,
+    "maxValue": 6,
+    "precision": 0
+  },
+  {
+    "id": 33585075,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: Срок беременности на текущую дату (недель)",
+    "code": "now_week",
+    "fieldType": 2,
+    "minValue": 1,
+    "maxValue": 27,
+    "precision": 0
+  },
+  {
+    "id": 214721938,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Число плодов",
+    "code": "NumFet_code",
+    "fieldType": 5,
+    "dictionaryCode": "NumFet",
+    "dictionaryAllowCreate": true,
+    "dictionaryValues":
+    [
+      {
+        "name": "1",
+        "code": "1",
+        "shortName": "1"
+      },
+      {
+        "name": "2",
+        "code": "2",
+        "shortName": "2"
+      }
+    ]
+  },
+  {
+    "id": 214772894,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: Другие",
+    "code": "Other",
+    "shortName": "Other",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 214723694,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab:Со стимуляцией овуляции",
+    "code": "OvaInduct",
+    "fieldType": 3
+  },
+  {
+    "id": 214774990,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: Должность",
+    "code": "PatientPost",
+    "shortName": "PatientPost",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 214772891,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: Место работы или учебы",
+    "code": "PlaceOfStudyOrWork",
+    "shortName": "PlaceOfStudyOrWork",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 32559150,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: ЭКО беременности",
+    "code": "pregnancy_ivf",
+    "fieldType": 3
+  },
+  {
+    "id": 214694890,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Отклонения по Т18",
+    "code": "pret18",
+    "fieldType": 3
+  },
+  {
+    "id": 214694883,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Отклонения по Т21",
+    "code": "pret21",
+    "fieldType": 3
+  },
+  {
+    "id": 214694897,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Отклонения по Тёрнеру",
+    "code": "pretur",
+    "fieldType": 3
+  },
+  {
+    "id": 214693323,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Тип беременности",
+    "code": "pretype_code",
+    "fieldType": 5,
+    "dictionaryCode": "pretype",
+    "dictionaryAllowCreate": true,
+    "dictionaryValues":
+    [
+      {
+        "name": "Наступившая естественным путем",
+        "code": "1",
+        "shortName": "1"
+      },
+      {
+        "name": "ЭКО",
+        "code": "2",
+        "shortName": "2"
+      },
+      {
+        "name": "Внутриматочная инсеминация",
+        "code": "3",
+        "shortName": "3"
+      },
+      {
+        "name": "Пересадка замороженного эмбриона",
+        "code": "4",
+        "shortName": "4"
+      }
+    ]
+  },
+  {
+    "id": 214772686,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: Статус отбора пробы",
+    "code": "ProbeStatus_code",
+    "shortName": "ProbeStatus",
+    "fieldType": 5,
+    "dictionaryCode": "ProbeStatus",
+    "dictionaryValues":
+    [
+      {
+        "name": "Первичный",
+        "code": "Primary",
+        "shortName": "Первичный"
+      },
+      {
+        "name": "Повторно",
+        "code": "Repeatedly",
+        "shortName": "Repeatedly"
+      }
+    ]
+  },
+  {
+    "id": 214772886,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: С целью эпидемиологического надзора",
+    "code": "PurpOfEpidSur_code",
+    "shortName": "ForThePurposeOfEpidemiologicalSurveillance",
+    "fieldType": 5,
+    "dictionaryCode": "PurpOfEpidSur",
+    "dictionaryValues":
+    [
+      {
+        "name": "Пациенты при экстренной госпитализации в стационар",
+        "code": "7",
+        "shortName": "Patients with emergency hospitalization"
+      },
+      {
+        "name": "Пациенты при плановой госпитализации в стационар",
+        "code": "6",
+        "shortName": "Patients with planned hospitalization in a hospital"
+      },
+      {
+        "name": "Пациенты, находящиеся на гемодиализе",
+        "code": "8",
+        "shortName": "Hemodialysis patients"
+      },
+      {
+        "name": "Другие",
+        "code": "4",
+        "shortName": "Other"
+      },
+      {
+        "name": "Беременные и новорожденнные",
+        "code": "9",
+        "shortName": "Pregnant patients or newborns"
+      },
+      {
+        "name": "Лица, вновь поступающие в медико-социальные учреждения, однократно при оформлении",
+        "code": "10",
+        "shortName": "Persons newly admitted to medical and social institutions, once upon registration"
+      },
+      {
+        "name": "Лица, поступающие в учреждения УИС (подследственные, обвиняемые, осужденные)",
+        "code": "11",
+        "shortName": "Persons entering the penal system (persons under investigation, accused, convicted)"
+      },
+      {
+        "name": "По эпидемиологическим показаниям согласно постановления главного государственного санитарного врача соответствующей территории",
+        "code": "12",
+        "shortName": "For epidemiological indications in accordance with the decree of the chief state sanitary doctor of the relevant territory"
+      }
+    ]
+  },
+  {
+    "id": 32559139,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: Раса",
+    "code": "race_code",
+    "shortName": "race",
+    "fieldType": 5,
+    "dictionaryCode": "race",
+    "dictionaryAllowCreate": true,
+    "dictionaryValues":
+    [
+      {
+        "name": "Азиатская",
+        "code": "1",
+        "shortName": "A"
+      },
+      {
+        "name": "Африканская",
+        "code": "2",
+        "shortName": "B"
+      },
+      {
+        "name": "Европейская",
+        "code": "3",
+        "shortName": "C"
+      },
+      {
+        "name": "Неизвестно",
+        "code": "4",
+        "shortName": "O"
+      }
+    ]
+  },
+  {
+    "id": 214720537,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab:ТВП",
+    "code": "Scervical_crease",
+    "fieldType": 2,
+    "minValue": 0,
+    "maxValue": 1024,
+    "precision": 1
+  },
+  {
+    "id": 214720500,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: КТР",
+    "code": "Scps",
+    "fieldType": 2,
+    "minValue": 0,
+    "maxValue": 1024,
+    "precision": 2
+  },
+  {
+    "id": 214720482,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Дата УЗИ",
+    "code": "Sdate",
+    "fieldType": 4,
+    "strict": true
+  },
+  {
+    "id": 214720491,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Диабет",
+    "code": "Sdiabetes",
+    "shortName": "diabetes",
+    "fieldType": 3
+  },
+  {
+    "id": 92593040,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Дополнительный образец 2: Дата рождения",
+    "code": "SecondSample_BirthDate",
+    "fieldType": 4
+  },
+  {
+    "id": 92593043,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Дополнительный образец 2: Имя",
+    "code": "SecondSampleFirstName",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 92593057,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Дополнительный образец 2: Фамилия",
+    "code": "SecondSampleLastName",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 92593046,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Дополнительный образец 2: Отчество",
+    "code": "SecondSampleMiddleName",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 92593054,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Дополнительный образец 2: Степень родства",
+    "code": "SecondSampleRelation_code",
+    "fieldType": 5,
+    "dictionaryCode": "relation",
+    "dictionaryValues":
+    [
+      {
+        "name": "Предполагаемая тётя",
+        "code": "9"
+      },
+      {
+        "name": "Предполагаемая бабушка",
+        "code": "14",
+        "shortName": "hfhjfhj"
+      },
+      {
+        "name": "Предполагаемая дочь",
+        "code": "4",
+        "shortName": "Дочь"
+      },
+      {
+        "name": "Предполагаемая мать",
+        "code": "2",
+        "shortName": "Мать"
+      },
+      {
+        "name": "Предполагаемая сестра",
+        "code": "13"
+      },
+      {
+        "name": "Предполагаемый брат",
+        "code": "12"
+      },
+      {
+        "name": "Предполагаемый внук",
+        "code": "6"
+      },
+      {
+        "name": "Предполгаемый племянник",
+        "code": "10"
+      },
+      {
+        "name": "Предполагаемый дедушка",
+        "code": "5"
+      },
+      {
+        "name": "Предполгаемая внучка",
+        "code": "7"
+      },
+      {
+        "name": "Предполгаемая племянница",
+        "code": "11"
+      },
+      {
+        "name": "Предполагаемый дядя",
+        "code": "8"
+      },
+      {
+        "name": "Предполагаемый отец",
+        "code": "1",
+        "shortName": "Отец"
+      },
+      {
+        "name": "Предполагаемый сын",
+        "code": "3",
+        "shortName": "Сын"
+      }
+    ]
+  },
+  {
+    "id": 92593049,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Дополнительный образец 2: Пол",
+    "code": "SecondSampleSex",
+    "fieldType": 5,
+    "dictionaryCode": "Gender",
+    "dictionaryValues":
+    [
+      {
+        "name": "М",
+        "code": "1"
+      },
+      {
+        "name": "Ж",
+        "code": "2"
+      }
+    ]
+  },
+  {
+    "id": 32559128,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: Курение",
+    "code": "smoking",
+    "shortName": "smoking",
+    "fieldType": 3
+  },
+  {
+    "id": 214720515,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Раса",
+    "code": "Srace_code",
+    "shortName": "race",
+    "fieldType": 5,
+    "dictionaryCode": "race",
+    "dictionaryAllowCreate": true,
+    "dictionaryValues":
+    [
+      {
+        "name": "Азиатская",
+        "code": "1",
+        "shortName": "A"
+      },
+      {
+        "name": "Африканская",
+        "code": "2",
+        "shortName": "B"
+      },
+      {
+        "name": "Европейская",
+        "code": "3",
+        "shortName": "C"
+      },
+      {
+        "name": "Неизвестно",
+        "code": "4",
+        "shortName": "O"
+      }
+    ]
+  },
+  {
+    "id": 214720507,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Курение",
+    "code": "Ssmoking",
+    "shortName": "smoking",
+    "fieldType": 3
+  },
+  {
+    "id": 214720522,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Срок беременности по УЗИ (дней)",
+    "code": "Suzi_day",
+    "fieldType": 2,
+    "minValue": 0,
+    "maxValue": 6,
+    "precision": 0
+  },
+  {
+    "id": 214720529,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Срок беременности по УЗИ (недель)",
+    "code": "Suzi_week",
+    "fieldType": 2,
+    "minValue": 1,
+    "maxValue": 27,
+    "precision": 0
+  },
+  {
+    "id": 214720473,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "ЗаявкаSSDwLab: Вес",
+    "code": "Sweight",
+    "fieldType": 2,
+    "minValue": 30,
+    "maxValue": 300,
+    "precision": 0
+  },
+  {
+    "id": 214800945,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка COVID: ФИО транслитом",
+    "code": "Translit_Name",
+    "fieldType": 1,
+    "maxLength": 1024
+  },
+  {
+    "id": 214694877,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка SSDwLab: Тип плаценты",
+    "code": "twinclass_code",
+    "fieldType": 5,
+    "dictionaryCode": "PlacType",
+    "dictionaryAllowCreate": true,
+    "dictionaryValues":
+    [
+      {
+        "name": "Дихориальный",
+        "code": "1",
+        "shortName": "D"
+      },
+      {
+        "name": "Монохориальный",
+        "code": "2",
+        "shortName": "M"
+      }
+    ]
+  },
+  {
+    "id": 32559156,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: Дата УЗИ",
+    "code": "uzi_date",
+    "fieldType": 4,
+    "strict": true
+  },
+  {
+    "id": 33585079,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: Срок беременности по УЗИ (дней)",
+    "code": "uzi_day",
+    "fieldType": 2,
+    "minValue": 0,
+    "maxValue": 6,
+    "precision": 0
+  },
+  {
+    "id": 33585056,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: Срок беременности по УЗИ (недель)",
+    "code": "uzi_week",
+    "fieldType": 2,
+    "minValue": 1,
+    "maxValue": 27,
+    "precision": 0
+  },
+  {
+    "id": 32559126,
+    "updateTime": "2022-04-26T14:25:28+06:00",
+    "updateVersion": 39,
+    "name": "Заявка PRISCA: Вес",
+    "code": "WeightKg",
+    "fieldType": 2,
+    "minValue": 30,
+    "maxValue": 300,
+    "precision": 0
+  },
+  {
+    "id": 2,
+    "updateTime": "2022-03-16T11:28:33+06:00",
+    "updateVersion": 1,
+    "name": "Фаза цикла",
+    "code": "CyclePeriod",
+    "fieldType": 5,
+    "dictionaryCode": "CyclePeriod",
+    "dictionaryValues":
+    [
+      {
+        "name": "(НЕТ БЕРЕМЕННОСТИ - ФАЗА ЦИКЛА НЕ УКАЗАНА)",
+        "code": "7"
+      },
+      {
+        "name": "(БЕРЕМЕННОСТЬ)",
+        "code": "8"
+      },
+      {
+        "name": "ФОЛЛИКУЛЯРНАЯ",
+        "code": "2"
+      },
+      {
+        "name": "ОВУЛЯТОРНАЯ",
+        "code": "1"
+      },
+      {
+        "name": "ЛЮТЕИНОВАЯ",
+        "code": "3"
+      },
+      {
+        "name": "МЕНОПАУЗА",
+        "code": "4"
+      },
+      {
+        "name": "ПОСТМЕНОПАУЗА",
+        "code": "5"
+      },
+      {
+        "name": "ПРЕМЕНОПАУЗА",
+        "code": "6"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "updateTime": "2022-03-16T11:28:33+06:00",
+    "updateVersion": 1,
+    "name": "Пол",
+    "code": "Gender",
+    "fieldType": 5,
+    "dictionaryCode": "Gender",
+    "dictionaryValues":
+    [
+      {
+        "name": "М",
+        "code": "1"
+      },
+      {
+        "name": "Ж",
+        "code": "2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5642 @@
+[
+  {
+    "id": 214904613,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Общий анализ крови с С-реактивным белком (ОАК + СРБ, без СОЭ)",
+    "code": "1151.2",
+    "shortName": "ОАК + СРБ, без СОЭ",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.115.002",
+        "analysisId": 15788,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B02.110.002",
+        "analysisId": 39907572,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 214752184,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Тест на лекарственную непереносимость (тест на активацию базофилов, CAST) на 1 препарат",
+    "code": "20.40.000.000.1",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "20.40.000.000",
+        "analysisId": 189991686,
+        "biomaterialCode": "",
+        "biomaterialId": 189991592
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 214752202,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Тест на лекарственную непереносимость (тест на активацию базофилов, CAST) на 2 препарат",
+    "code": "20.40.000.000.2",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "20.40.000.002",
+        "analysisId": 214774867,
+        "biomaterialCode": "",
+        "biomaterialId": 189991618
+      },
+      {
+        "analysisCode": "20.40.000.000",
+        "analysisId": 189991686,
+        "biomaterialCode": "",
+        "biomaterialId": 189991592
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 214752206,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Тест на лекарственную непереносимость (тест на активацию базофилов, CAST) на 3 препарат",
+    "code": "20.40.000.000.3",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "20.40.000.003",
+        "analysisId": 214816761,
+        "biomaterialCode": "",
+        "biomaterialId": 189991636
+      },
+      {
+        "analysisCode": "20.40.000.002",
+        "analysisId": 214774867,
+        "biomaterialCode": "",
+        "biomaterialId": 189991618
+      },
+      {
+        "analysisCode": "20.40.000.000",
+        "analysisId": 189991686,
+        "biomaterialCode": "",
+        "biomaterialId": 189991592
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 214752222,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Тест на лекарственную непереносимость (тест на активацию базофилов, CAST) на 4 препарат",
+    "code": "20.40.000.000.4",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "20.40.000.000",
+        "analysisId": 189991686,
+        "biomaterialCode": "",
+        "biomaterialId": 189991592
+      },
+      {
+        "analysisCode": "20.40.000.003",
+        "analysisId": 214816761,
+        "biomaterialCode": "",
+        "biomaterialId": 189991636
+      },
+      {
+        "analysisCode": "20.40.000.004",
+        "analysisId": 214816772,
+        "biomaterialCode": "",
+        "biomaterialId": 214752195
+      },
+      {
+        "analysisCode": "20.40.000.002",
+        "analysisId": 214774867,
+        "biomaterialCode": "",
+        "biomaterialId": 189991618
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 214752245,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Тест на лекарственную непереносимость (тест на активацию базофилов, CAST) на 5 препарат",
+    "code": "20.40.000.000.5",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "20.40.000.003",
+        "analysisId": 214816761,
+        "biomaterialCode": "",
+        "biomaterialId": 189991636
+      },
+      {
+        "analysisCode": "20.40.000.000",
+        "analysisId": 189991686,
+        "biomaterialCode": "",
+        "biomaterialId": 189991592
+      },
+      {
+        "analysisCode": "20.40.000.004",
+        "analysisId": 214816772,
+        "biomaterialCode": "",
+        "biomaterialId": 214752195
+      },
+      {
+        "analysisCode": "20.40.000.002",
+        "analysisId": 214774867,
+        "biomaterialCode": "",
+        "biomaterialId": 189991618
+      },
+      {
+        "analysisCode": "20.40.000.005",
+        "analysisId": 214816783,
+        "biomaterialCode": "",
+        "biomaterialId": 214752239
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 7065390,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"КАРДИОРИСК Вариант 1. Стандартный\"",
+    "code": "90.00.000",
+    "shortName": "КАРДИОРИСК Станд.",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "90.99.001",
+        "analysisId": 8060119,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.371.002",
+        "analysisId": 15750,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.372.002",
+        "analysisId": 15752,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.486.002",
+        "analysisId": 15746,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308974,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Кардиориск стандартный (акция до 50%)",
+    "code": "90.00.001",
+    "shortName": "КАРДИОРИСК Станд.",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "90.99.001",
+        "analysisId": 8060119,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.371.002",
+        "analysisId": 15750,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.372.002",
+        "analysisId": 15752,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.486.002",
+        "analysisId": 15746,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 7065406,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"КАРДИОРИСК Вариант 2. Полный\"",
+    "code": "90.00.010",
+    "shortName": "КАРДИОРИСК Полный",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "90.99.001",
+        "analysisId": 8060119,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.371.002",
+        "analysisId": 15750,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.291.002",
+        "analysisId": 15754,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.372.002",
+        "analysisId": 15752,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1046-1",
+        "analysisId": 2988393,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.486.002",
+        "analysisId": 15746,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.292.002",
+        "analysisId": 15756,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308964,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Кардиориск полный (акция до 50%)",
+    "code": "90.00.011",
+    "shortName": "КАРДИОРИСК Полный",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "90.99.001",
+        "analysisId": 8060119,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.371.002",
+        "analysisId": 15750,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.291.002",
+        "analysisId": 15754,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.372.002",
+        "analysisId": 15752,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.486.002",
+        "analysisId": 15746,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.292.002",
+        "analysisId": 15756,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1046-1",
+        "analysisId": 2988393,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 16058079,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"КАРДИОРИСК Вариант 3. Расширенный\"",
+    "code": "90.00.020",
+    "shortName": "КАРДИОРИСК Расширенный",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "90.99.001",
+        "analysisId": 8060119,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.371.002",
+        "analysisId": 15750,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.291.002",
+        "analysisId": 15754,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.372.002",
+        "analysisId": 15752,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1046-1",
+        "analysisId": 2988393,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.057.006",
+        "analysisId": 14832992,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.486.002",
+        "analysisId": 15746,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.292.002",
+        "analysisId": 15756,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308969,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Кардиориск расширенный (акция до 50%)",
+    "code": "90.00.021",
+    "shortName": "КАРДИОРИСК Расширенный",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "1046-1",
+        "analysisId": 2988393,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "90.99.001",
+        "analysisId": 8060119,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.371.002",
+        "analysisId": 15750,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.291.002",
+        "analysisId": 15754,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.372.002",
+        "analysisId": 15752,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.057.006",
+        "analysisId": 14832992,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.486.002",
+        "analysisId": 15746,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.292.002",
+        "analysisId": 15756,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 110220140,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Коагулограмма",
+    "code": "90.07.007",
+    "shortName": "Коагулограмма",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B04.379.002",
+        "analysisId": 60964250,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "B04.501.002",
+        "analysisId": 15960,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "B04.149.002",
+        "analysisId": 15963,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "B04.487.002",
+        "analysisId": 15965,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 7065413,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Обследование печени\"",
+    "code": "90.10.000",
+    "shortName": "Обследование Печени",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.526.002",
+        "analysisId": 15708,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.293.002",
+        "analysisId": 15706,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.403.002",
+        "analysisId": 15716,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.316.002",
+        "analysisId": 15710,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.435.002",
+        "analysisId": 15732,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.155.002",
+        "analysisId": 15704,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.397.002",
+        "analysisId": 15726,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.367.002",
+        "analysisId": 15712,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308982,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Обследование печени (акция до 50%)",
+    "code": "90.10.001",
+    "shortName": "Обследование Печени",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.526.002",
+        "analysisId": 15708,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.293.002",
+        "analysisId": 15706,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.403.002",
+        "analysisId": 15716,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.316.002",
+        "analysisId": 15710,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.435.002",
+        "analysisId": 15732,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.155.002",
+        "analysisId": 15704,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.397.002",
+        "analysisId": 15726,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.367.002",
+        "analysisId": 15712,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 16058030,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Интимный\" (ПЦР мужчины,материал-соскоб)",
+    "code": "90.15.000",
+    "shortName": "Интимный профиль (ПЦР мужчины)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B09.819.020",
+        "analysisId": 1315092,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.811.020",
+        "analysisId": 1315080,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.824.020",
+        "analysisId": 1315090,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.810.020",
+        "analysisId": 1315096,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.846.020",
+        "analysisId": 1315094,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.825.020",
+        "analysisId": 1315082,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.812.020",
+        "analysisId": 1315088,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.827.020",
+        "analysisId": 1315098,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.852.020",
+        "analysisId": 1315086,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308960,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Интимный (ПЦР мужчины)(акция до 50%)",
+    "code": "90.15.001",
+    "shortName": "Интимный профиль (ПЦР мужчины)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B09.819.020",
+        "analysisId": 1315092,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.811.020",
+        "analysisId": 1315080,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.824.020",
+        "analysisId": 1315090,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.810.020",
+        "analysisId": 1315096,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.846.020",
+        "analysisId": 1315094,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.825.020",
+        "analysisId": 1315082,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.812.020",
+        "analysisId": 1315088,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.827.020",
+        "analysisId": 1315098,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.852.020",
+        "analysisId": 1315086,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 116517162,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Интимный\" (ПЦР мужчины,материал- моча)",
+    "code": "90.15.002",
+    "shortName": "Интимный профиль (ПЦР мужчины,моча)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B09.819.020",
+        "analysisId": 1315092,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.811.020",
+        "analysisId": 1315080,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.824.020",
+        "analysisId": 1315090,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.810.020",
+        "analysisId": 1315096,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.846.020",
+        "analysisId": 1315094,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.825.020",
+        "analysisId": 1315082,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.812.020",
+        "analysisId": 1315088,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.827.020",
+        "analysisId": 1315098,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.852.020",
+        "analysisId": 1315086,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.846.020",
+        "analysisId": 1315094,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 116742310,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Интимный\" (ПЦР мужчины,материал- моча)(акция до 50%)",
+    "code": "90.15.003",
+    "shortName": "Интимный профиль (ПЦР мужчины,моча)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B09.819.020",
+        "analysisId": 1315092,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.811.020",
+        "analysisId": 1315080,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.824.020",
+        "analysisId": 1315090,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.810.020",
+        "analysisId": 1315096,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.846.020",
+        "analysisId": 1315094,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.825.020",
+        "analysisId": 1315082,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.812.020",
+        "analysisId": 1315088,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.827.020",
+        "analysisId": 1315098,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B09.852.020",
+        "analysisId": 1315086,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 16058023,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Интимный\" (ПЦР женщины)",
+    "code": "90.15.010",
+    "shortName": "Интимный профиль (ПЦР женщины)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B09.819.020",
+        "analysisId": 1315092,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.811.020",
+        "analysisId": 1315080,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.824.020",
+        "analysisId": 1315090,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.810.020",
+        "analysisId": 1315096,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.846.020",
+        "analysisId": 1315094,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.825.020",
+        "analysisId": 1315082,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.812.020",
+        "analysisId": 1315088,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.827.020",
+        "analysisId": 1315098,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.852.020",
+        "analysisId": 1315086,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308955,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Интимный (ПЦР женщины)(акция до 50%)",
+    "code": "90.15.011",
+    "shortName": "Интимный профиль (ПЦР женщины)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B09.819.020",
+        "analysisId": 1315092,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.811.020",
+        "analysisId": 1315080,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.824.020",
+        "analysisId": 1315090,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.810.020",
+        "analysisId": 1315096,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.846.020",
+        "analysisId": 1315094,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.825.020",
+        "analysisId": 1315082,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.812.020",
+        "analysisId": 1315088,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.827.020",
+        "analysisId": 1315098,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B09.852.020",
+        "analysisId": 1315086,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 16058037,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Интимный\" (ИФА)",
+    "code": "90.15.020",
+    "shortName": "Интимный профиль (ИФА)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "40.052",
+        "analysisId": 348413,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.033",
+        "analysisId": 348399,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.00.605",
+        "analysisId": 348397,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.210.005",
+        "analysisId": 15981,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.242.005",
+        "analysisId": 15991,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.043",
+        "analysisId": 1886162,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.235.005",
+        "analysisId": 15985,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.236.005",
+        "analysisId": 15983,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.224.005",
+        "analysisId": 15979,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.263.005",
+        "analysisId": 15989,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.207.005",
+        "analysisId": 33658124,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.219.005",
+        "analysisId": 15987,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308947,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Интимный (ИФА)(акция до 50%)",
+    "code": "90.15.021",
+    "shortName": "Интимный профиль (ИФА)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "40.052",
+        "analysisId": 348413,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.033",
+        "analysisId": 348399,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.00.605",
+        "analysisId": 348397,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.210.005",
+        "analysisId": 15981,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.242.005",
+        "analysisId": 15991,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.043",
+        "analysisId": 1886162,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.235.005",
+        "analysisId": 15985,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.236.005",
+        "analysisId": 15983,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.224.005",
+        "analysisId": 15979,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.263.005",
+        "analysisId": 15989,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.207.005",
+        "analysisId": 33658124,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.219.005",
+        "analysisId": 15987,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 7065416,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Ревматологический Вариант 1. Стандартный\"",
+    "code": "90.20.000",
+    "shortName": "Ревматологический Станд.",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B03.437.002",
+        "analysisId": 15794,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.115.002",
+        "analysisId": 15788,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.206.002",
+        "analysisId": 15796,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.387.002",
+        "analysisId": 15734,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63309051,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Ревматологический стандартный (акция до 50%)",
+    "code": "90.20.001",
+    "shortName": "Ревматологический Станд.",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.437.002",
+        "analysisId": 15794,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.115.002",
+        "analysisId": 15788,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.206.002",
+        "analysisId": 15796,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.387.002",
+        "analysisId": 15734,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 7065424,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Ревматологический Вариант 2. Полный\"",
+    "code": "90.20.010",
+    "shortName": "Ревматологический Полный",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.359.002",
+        "analysisId": 15790,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.437.002",
+        "analysisId": 15794,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.360.002",
+        "analysisId": 15792,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.115.002",
+        "analysisId": 15788,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.206.002",
+        "analysisId": 15796,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.387.002",
+        "analysisId": 15734,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63309041,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Ревматологический полный (акция до 50%)",
+    "code": "90.20.011",
+    "shortName": "Ревматологический Полный",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B03.359.002",
+        "analysisId": 15790,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.437.002",
+        "analysisId": 15794,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.360.002",
+        "analysisId": 15792,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.115.002",
+        "analysisId": 15788,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.206.002",
+        "analysisId": 15796,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.387.002",
+        "analysisId": 15734,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 7065420,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Ревматологический Вариант 3. Расширенный\"",
+    "code": "90.20.020",
+    "shortName": "Ревматологический Расш.",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B06.405.012",
+        "analysisId": 15780,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.359.002",
+        "analysisId": 15790,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.407.012",
+        "analysisId": 15784,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.437.002",
+        "analysisId": 15794,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.408.012",
+        "analysisId": 15782,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.360.002",
+        "analysisId": 15792,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.115.002",
+        "analysisId": 15788,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.296.006",
+        "analysisId": 5399489,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.206.002",
+        "analysisId": 15796,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.387.002",
+        "analysisId": 15734,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63309045,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Ревматологический расширенный (акция до 50%)",
+    "code": "90.20.021",
+    "shortName": "Ревматологический Расш.",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.405.012",
+        "analysisId": 15780,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.359.002",
+        "analysisId": 15790,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.407.012",
+        "analysisId": 15784,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.437.002",
+        "analysisId": 15794,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.408.012",
+        "analysisId": 15782,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.360.002",
+        "analysisId": 15792,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.115.002",
+        "analysisId": 15788,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.296.006",
+        "analysisId": 5399489,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.206.002",
+        "analysisId": 15796,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.387.002",
+        "analysisId": 15734,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 7065401,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Диагностика Сахарного Диабета\"",
+    "code": "90.30.000",
+    "shortName": "Диагностика Сах. Диабета",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.328.002",
+        "analysisId": 15744,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B01.077.002",
+        "analysisId": 28089,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B01.333.002",
+        "analysisId": 29567,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.346.006",
+        "analysisId": 15874,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308937,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Диагностика Диабета (акция до 50%)",
+    "code": "90.30.001",
+    "shortName": "Диагностика Сах. Диабета",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.328.002",
+        "analysisId": 15744,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B01.077.002",
+        "analysisId": 28089,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B01.333.002",
+        "analysisId": 29567,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.346.006",
+        "analysisId": 15874,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 7065393,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Обследование почек\"",
+    "code": "90.40.000",
+    "shortName": "Обследование почек",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B01.077.002",
+        "analysisId": 28089,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B03.363.002",
+        "analysisId": 15738,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.375.002",
+        "analysisId": 15762,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1149",
+        "analysisId": 16001,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.850.002",
+        "analysisId": 15764,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.386.002",
+        "analysisId": 15736,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308987,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Обследование Почек (акция до 50%)",
+    "code": "90.40.001",
+    "shortName": "Обследование почек",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B01.077.002",
+        "analysisId": 28089,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B03.156.002.1",
+        "analysisId": 202600028,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B03.363.002",
+        "analysisId": 15738,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.375.002",
+        "analysisId": 15762,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1149",
+        "analysisId": 16001,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.850.002",
+        "analysisId": 15764,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.386.002",
+        "analysisId": 15736,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 16058034,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Мужское здоровье\"",
+    "code": "90.45.000",
+    "shortName": "Мужское здоровье",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.399.006",
+        "analysisId": 15886,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.444.006",
+        "analysisId": 15888,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308978,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Мужское здоровье (акция до 50%)",
+    "code": "90.45.001",
+    "shortName": "Мужское здоровье",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.399.006",
+        "analysisId": 15886,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.444.006",
+        "analysisId": 15888,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 7065397,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Диагностика анемии\"",
+    "code": "90.50.000",
+    "shortName": "Диагностика анемии",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B02.532.001",
+        "analysisId": 15700,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B03.500.002",
+        "analysisId": 15772,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.485.002",
+        "analysisId": 15770,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.305.006",
+        "analysisId": 15776,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.394.002",
+        "analysisId": 15774,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.340.002",
+        "analysisId": 15768,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.504.006",
+        "analysisId": 15778,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308931,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Диагностика Анемии (акция до 50%)",
+    "code": "90.50.001",
+    "shortName": "Диагностика анемии",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B02.532.001",
+        "analysisId": 15700,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B03.500.002",
+        "analysisId": 15772,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.485.002",
+        "analysisId": 15770,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.305.006",
+        "analysisId": 15776,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.394.002",
+        "analysisId": 15774,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.340.002",
+        "analysisId": 15768,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.504.006",
+        "analysisId": 15778,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 16058041,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Женское здоровье\"",
+    "code": "90.55.000",
+    "shortName": "Женское здоровье",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.414.006",
+        "analysisId": 15892,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.413.006",
+        "analysisId": 15884,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308942,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Женское здоровье (акция до 50%)",
+    "code": "90.55.001",
+    "shortName": "Женское здоровье",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.414.006",
+        "analysisId": 15892,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.413.006",
+        "analysisId": 15884,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 7065409,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Остеопороз\"",
+    "code": "90.60.000",
+    "shortName": "Остеопороз",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.056.006",
+        "analysisId": 1532084,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.422.006",
+        "analysisId": 145289,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.353.002",
+        "analysisId": 15760,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.423.006",
+        "analysisId": 2366018,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1149",
+        "analysisId": 16001,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.850.002",
+        "analysisId": 15764,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63309015,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Остеопороз (акция до 50%)",
+    "code": "90.60.001",
+    "shortName": "Остеопороз",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.056.006",
+        "analysisId": 1532084,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.422.006",
+        "analysisId": 145289,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.353.002",
+        "analysisId": 15760,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.423.006",
+        "analysisId": 2366018,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1149",
+        "analysisId": 16001,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.850.002",
+        "analysisId": 15764,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 16058025,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Онкопрофиль мужской\"",
+    "code": "90.65.000",
+    "shortName": "Онкопрофиль мужской",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.416.006",
+        "analysisId": 15890,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.415.006",
+        "analysisId": 15882,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.392.006",
+        "analysisId": 2365665,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.442.006",
+        "analysisId": 15880,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.411.006",
+        "analysisId": 1531991,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.399.006",
+        "analysisId": 15886,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.140.006",
+        "analysisId": 6266610,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.123.006",
+        "analysisId": 15878,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.444.006",
+        "analysisId": 15888,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63309006,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Онкологический мужской (акция до 50%)",
+    "code": "90.65.001",
+    "shortName": "Онкопрофиль мужской",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.416.006",
+        "analysisId": 15890,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.415.006",
+        "analysisId": 15882,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.392.006",
+        "analysisId": 2365665,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.442.006",
+        "analysisId": 15880,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.411.006",
+        "analysisId": 1531991,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.399.006",
+        "analysisId": 15886,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.140.006",
+        "analysisId": 6266610,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.123.006",
+        "analysisId": 15878,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.444.006",
+        "analysisId": 15888,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 16058021,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Онкопрофиль женский\"",
+    "code": "90.65.010",
+    "shortName": "Онкопрофиль женский",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.416.006",
+        "analysisId": 15890,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.415.006",
+        "analysisId": 15882,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.392.006",
+        "analysisId": 2365665,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.414.006",
+        "analysisId": 15892,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.442.006",
+        "analysisId": 15880,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.411.006",
+        "analysisId": 1531991,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.413.006",
+        "analysisId": 15884,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.140.006",
+        "analysisId": 6266610,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.123.006",
+        "analysisId": 15878,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63309001,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Онкологический женский (акция до 50%)",
+    "code": "90.65.011",
+    "shortName": "Онкопрофиль женский",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.416.006",
+        "analysisId": 15890,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.415.006",
+        "analysisId": 15882,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.392.006",
+        "analysisId": 2365665,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.414.006",
+        "analysisId": 15892,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.442.006",
+        "analysisId": 15880,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.411.006",
+        "analysisId": 1531991,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.413.006",
+        "analysisId": 15884,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.140.006",
+        "analysisId": 6266610,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.123.006",
+        "analysisId": 15878,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 16058039,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Обследование щитовидной железы  \"Тиреоидный профиль\" Вариант 1. Стандартный",
+    "code": "90.70.000",
+    "shortName": "Тиреоидный профиль Вариант 1. Стандартный",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.445.006",
+        "analysisId": 15839,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.484.006",
+        "analysisId": 15837,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.202.006",
+        "analysisId": 15850,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308997,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Обследование щитовидной железы стандартный (акция до 50%)",
+    "code": "90.70.001",
+    "shortName": "Тиреоидный профиль Вариант 1. Стандартный",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.445.006",
+        "analysisId": 15839,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.484.006",
+        "analysisId": 15837,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.202.006",
+        "analysisId": 15850,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 16058032,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Обследование щитовидной железы  \"Тиреоидный профиль\" Вариант 2. Полный",
+    "code": "90.70.010",
+    "shortName": "Тиреоидный профиль Вариант 2. Полный",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.445.006",
+        "analysisId": 15839,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.484.006",
+        "analysisId": 15837,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.204.006",
+        "analysisId": 15848,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.202.006",
+        "analysisId": 15850,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.446.006",
+        "analysisId": 15842,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308992,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Обследование щитовидной железы полный (акция до 50%)",
+    "code": "90.70.011",
+    "shortName": "Тиреоидный профиль Вариант 2. Полный",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.445.006",
+        "analysisId": 15839,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.484.006",
+        "analysisId": 15837,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.204.006",
+        "analysisId": 15848,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.202.006",
+        "analysisId": 15850,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.446.006",
+        "analysisId": 15842,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 16058075,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Предоперационный\"",
+    "code": "90.75.000",
+    "shortName": "Предоперационный профиль.",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.293.002",
+        "analysisId": 15706,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.363.002",
+        "analysisId": 15738,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.435.002",
+        "analysisId": 15732,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.127.006",
+        "analysisId": 15896,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.155.002",
+        "analysisId": 15704,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.397.002",
+        "analysisId": 15726,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.386.002",
+        "analysisId": 15736,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.470.006",
+        "analysisId": 15900,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B04.379.002",
+        "analysisId": 60964250,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "B04.501.002",
+        "analysisId": 15960,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "B04.149.002",
+        "analysisId": 15963,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "B04.487.002",
+        "analysisId": 15965,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "11955",
+        "analysisId": 157149,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "fields":
+    [
+      {
+        "fieldCode": "HivCode",
+        "mandatory": false
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63309025,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Предоперационный (акция до 50%)",
+    "code": "90.75.001",
+    "shortName": "Предоперационный профиль.",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B04.379.002.1",
+        "analysisId": 15958,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "B04.501.002",
+        "analysisId": 15960,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "B04.149.002",
+        "analysisId": 15963,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "B04.487.002",
+        "analysisId": 15965,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "11955",
+        "analysisId": 157149,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B03.293.002",
+        "analysisId": 15706,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.363.002",
+        "analysisId": 15738,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.681.012",
+        "analysisId": 15914,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.435.002",
+        "analysisId": 15732,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.127.006",
+        "analysisId": 15896,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.155.002",
+        "analysisId": 15704,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.397.002",
+        "analysisId": 15726,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.386.002",
+        "analysisId": 15736,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.470.006",
+        "analysisId": 15900,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 16058028,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Паразитозы\"",
+    "code": "90.80.000",
+    "shortName": "Паразитозы профиль",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.216.005",
+        "analysisId": 261341,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.268.005",
+        "analysisId": 12026213,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.231.005",
+        "analysisId": 261366,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.567.005",
+        "analysisId": 15975,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.176.005",
+        "analysisId": 261348,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.265.005.1",
+        "analysisId": 171326561,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.265.005",
+        "analysisId": 12183365,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.225.005",
+        "analysisId": 15977,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.234.005",
+        "analysisId": 12026231,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63309020,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Паразитозы (акция до 50%)",
+    "code": "90.80.001",
+    "shortName": "Паразитозы профиль",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.216.005",
+        "analysisId": 261341,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.268.005",
+        "analysisId": 12026213,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.231.005",
+        "analysisId": 261366,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.567.005",
+        "analysisId": 15975,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.176.005",
+        "analysisId": 261348,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.265.005",
+        "analysisId": 12183365,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.225.005",
+        "analysisId": 15977,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.234.005",
+        "analysisId": 12026231,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 34262668,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Витамины и микроэлементы\"",
+    "code": "90.80.010",
+    "shortName": "Профиль \"Витамины и микроэлементы\"",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.375.002",
+        "analysisId": 15762,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "10401",
+        "analysisId": 40608171,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.353.002",
+        "analysisId": 15760,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1149",
+        "analysisId": 16001,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.305.006",
+        "analysisId": 15776,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.850.002",
+        "analysisId": 15764,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.519.002",
+        "analysisId": 2773152,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.340.002",
+        "analysisId": 15768,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.504.006",
+        "analysisId": 15778,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308927,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Витамины и микроэлементы (акция до 50%)",
+    "code": "90.80.011",
+    "shortName": "Витамины и микроэлементы",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.375.002",
+        "analysisId": 15762,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "10401",
+        "analysisId": 40608171,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.353.002",
+        "analysisId": 15760,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1149",
+        "analysisId": 16001,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.305.006",
+        "analysisId": 15776,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.850.002",
+        "analysisId": 15764,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.519.002",
+        "analysisId": 2773152,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.340.002",
+        "analysisId": 15768,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.504.006",
+        "analysisId": 15778,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 56540983,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Проблемы лишнего веса\"",
+    "code": "90.80.020",
+    "shortName": "Проблемы лишнего веса",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.202.006",
+        "analysisId": 15850,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.433.006",
+        "analysisId": 15860,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.371.002",
+        "analysisId": 15750,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.526.002",
+        "analysisId": 15708,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.445.006",
+        "analysisId": 15839,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.293.002",
+        "analysisId": 15706,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "90.99.001",
+        "analysisId": 8060119,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.484.006",
+        "analysisId": 15837,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.512.006",
+        "analysisId": 15854,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.316.002",
+        "analysisId": 15710,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.435.002",
+        "analysisId": 15732,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.527.006",
+        "analysisId": 15862,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.372.002",
+        "analysisId": 15752,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.155.002",
+        "analysisId": 15704,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.397.002",
+        "analysisId": 15726,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.338.006",
+        "analysisId": 15868,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.486.002",
+        "analysisId": 15746,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.369.006",
+        "analysisId": 15856,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.482.006",
+        "analysisId": 15866,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.328.002",
+        "analysisId": 15744,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63309033,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Проблемы лишнего веса (акция до 50%)",
+    "code": "90.80.021",
+    "shortName": "Проблемы лишнего веса",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.328.002",
+        "analysisId": 15744,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.202.006",
+        "analysisId": 15850,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.433.006",
+        "analysisId": 15860,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.371.002",
+        "analysisId": 15750,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.526.002",
+        "analysisId": 15708,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.445.006",
+        "analysisId": 15839,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.293.002",
+        "analysisId": 15706,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.484.006",
+        "analysisId": 15837,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.512.006",
+        "analysisId": 15854,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.316.002",
+        "analysisId": 15710,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.435.002",
+        "analysisId": 15732,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.527.006",
+        "analysisId": 15862,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.372.002",
+        "analysisId": 15752,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.155.002",
+        "analysisId": 15704,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.397.002",
+        "analysisId": 15726,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.338.006",
+        "analysisId": 15868,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.486.002",
+        "analysisId": 15746,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.369.006",
+        "analysisId": 15856,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.482.006",
+        "analysisId": 15866,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 123299415,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Спортивный",
+    "code": "90.80.022",
+    "shortName": "Профиль Спортивный",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1149",
+        "analysisId": 16001,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.293.002",
+        "analysisId": 15706,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.363.002",
+        "analysisId": 15738,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.435.002",
+        "analysisId": 15732,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.346.006",
+        "analysisId": 15874,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.155.002",
+        "analysisId": 15704,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.397.002",
+        "analysisId": 15726,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.366.002",
+        "analysisId": 15714,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.386.002",
+        "analysisId": 15736,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.482.006",
+        "analysisId": 15866,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 202598963,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Спортивный (акция до 50%)",
+    "code": "90.80.023",
+    "shortName": "Профиль Спортивный",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1149",
+        "analysisId": 16001,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.293.002",
+        "analysisId": 15706,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.363.002",
+        "analysisId": 15738,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.435.002",
+        "analysisId": 15732,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.346.006",
+        "analysisId": 15874,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.155.002",
+        "analysisId": 15704,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.397.002",
+        "analysisId": 15726,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.366.002",
+        "analysisId": 15714,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.386.002",
+        "analysisId": 15736,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.482.006",
+        "analysisId": 15866,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 128481229,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Полная иммунограмма\"",
+    "code": "90.80.025",
+    "shortName": "Профиль \"Полная иммунограмма\"",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.570.008_",
+        "analysisId": 128481155,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B02.110.002",
+        "analysisId": 39907572,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B06.405.012",
+        "analysisId": 15780,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.359.002",
+        "analysisId": 15790,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.407.012",
+        "analysisId": 15784,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.408.012",
+        "analysisId": 15782,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.360.002",
+        "analysisId": 15792,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.406.006",
+        "analysisId": 15786,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 128481220,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Гуморальное звено иммунитета\"",
+    "code": "90.80.026",
+    "shortName": "Профиль \"Гуморальное звено иммунитета\"",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B02.110.002",
+        "analysisId": 39907572,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "Conclusion3",
+        "analysisId": 128481126,
+        "biomaterialCode": "",
+        "biomaterialId": 128481093
+      },
+      {
+        "analysisCode": "B06.405.012",
+        "analysisId": 15780,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.407.012",
+        "analysisId": 15784,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.408.012",
+        "analysisId": 15782,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.406.006",
+        "analysisId": 15786,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 128481225,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Клеточное звено иммунитета\"",
+    "code": "90.80.027",
+    "shortName": "Профиль \"Клеточное звено иммунитета\"",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.570.008_",
+        "analysisId": 128481155,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B02.110.002",
+        "analysisId": 39907572,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 159225214,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль TORCH: токсоплазма, цитомегаловирус , вирус краснухи, герпес",
+    "code": "90.80.028",
+    "shortName": "Профиль TORCH",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B09.846.020.1",
+        "analysisId": 7684082,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B09.821.020",
+        "analysisId": 1315100,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B09.827.020.1",
+        "analysisId": 159225142,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B09.849.020",
+        "analysisId": 159224634,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 204897459,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль \"Полная иммунограмма\" (акция до 50%)",
+    "code": "90.80.035",
+    "shortName": "Профиль \"Полная иммунограмма\"",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.570.008_",
+        "analysisId": 128481155,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B02.110.002",
+        "analysisId": 39907572,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B06.405.012",
+        "analysisId": 15780,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.359.002",
+        "analysisId": 15790,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.407.012",
+        "analysisId": 15784,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.408.012",
+        "analysisId": 15782,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.360.002",
+        "analysisId": 15792,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.406.006",
+        "analysisId": 15786,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 180621036,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль: Подготовка к беременности. Мужчины. Расширенный",
+    "code": "90.80.051",
+    "shortName": "Профиль подготовка к беременности расширенный (муж.)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B01.458.001.1",
+        "analysisId": 171695843,
+        "biomaterialCode": "399",
+        "biomaterialId": 171694511
+      },
+      {
+        "analysisCode": "B09.846.020.1",
+        "analysisId": 7684082,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B09.821.020",
+        "analysisId": 1315100,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B09.827.020.1",
+        "analysisId": 159225142,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B09.849.020",
+        "analysisId": 159224634,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.433.006",
+        "analysisId": 15860,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "10401",
+        "analysisId": 40608171,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.337.006",
+        "analysisId": 12177702,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.134.006",
+        "analysisId": 1748453,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.172.005",
+        "analysisId": 7673034,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.132.006",
+        "analysisId": 1748447,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.248.006",
+        "analysisId": 15906,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.269.006",
+        "analysisId": 15904,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.363.002",
+        "analysisId": 15738,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.484.006",
+        "analysisId": 15837,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.232.006",
+        "analysisId": 15908,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.518.006",
+        "analysisId": 144786,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.512.006",
+        "analysisId": 15854,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.127.006",
+        "analysisId": 15896,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.397.002",
+        "analysisId": 15726,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.287.006",
+        "analysisId": 15902,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "20.635",
+        "analysisId": 12784523,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.386.002",
+        "analysisId": 15736,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.470.006",
+        "analysisId": 15900,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.369.006",
+        "analysisId": 15856,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.482.006",
+        "analysisId": 15866,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B01.077.002",
+        "analysisId": 28089,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "70.022",
+        "analysisId": 68682712,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "70.025",
+        "analysisId": 93485222,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "70.086",
+        "analysisId": 93485135,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "70.026",
+        "analysisId": 93485229,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "70.023",
+        "analysisId": 93485208,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 180620981,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль: Подготовка к беременности. Мужчины. Полный.",
+    "code": "90.80.052",
+    "shortName": "Профиль подготовка к беременности полный (муж.)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B01.077.002",
+        "analysisId": 28089,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "70.022",
+        "analysisId": 68682712,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.433.006",
+        "analysisId": 15860,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.337.006",
+        "analysisId": 12177702,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.172.005",
+        "analysisId": 7673034,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.132.006",
+        "analysisId": 1748447,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.248.006",
+        "analysisId": 15906,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.363.002",
+        "analysisId": 15738,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.484.006",
+        "analysisId": 15837,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.232.006",
+        "analysisId": 15908,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.127.006",
+        "analysisId": 15896,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.397.002",
+        "analysisId": 15726,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.386.002",
+        "analysisId": 15736,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "20.635",
+        "analysisId": 12784523,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.470.006",
+        "analysisId": 15900,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.482.006",
+        "analysisId": 15866,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B01.458.001.1",
+        "analysisId": 171695843,
+        "biomaterialCode": "399",
+        "biomaterialId": 171694511
+      },
+      {
+        "analysisCode": "70.025",
+        "analysisId": 93485222,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "70.086",
+        "analysisId": 93485135,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "70.026",
+        "analysisId": 93485229,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 180620935,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль: Подготовка к беременности. Мужчины. Базовый.",
+    "code": "90.80.053",
+    "shortName": "Профиль подготовка к беременности базовый (муж.)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B01.077.002",
+        "analysisId": 28089,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "70.022",
+        "analysisId": 68682712,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B01.458.001.1",
+        "analysisId": 171695843,
+        "biomaterialCode": "399",
+        "biomaterialId": 171694511
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.337.006",
+        "analysisId": 12177702,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.172.005",
+        "analysisId": 7673034,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.132.006",
+        "analysisId": 1748447,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.248.006",
+        "analysisId": 15906,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.363.002",
+        "analysisId": 15738,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.232.006",
+        "analysisId": 15908,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.127.006",
+        "analysisId": 15896,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.397.002",
+        "analysisId": 15726,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.386.002",
+        "analysisId": 15736,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "20.635",
+        "analysisId": 12784523,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.470.006",
+        "analysisId": 15900,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.482.006",
+        "analysisId": 15866,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 180620850,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль: Подготовка к беременности. Женщины. Расширенный.",
+    "code": "90.80.054",
+    "shortName": "Профиль подготовка к беременности расширенный (жен.)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B09.846.020.1",
+        "analysisId": 7684082,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B09.821.020",
+        "analysisId": 1315100,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B09.827.020.1",
+        "analysisId": 159225142,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B09.849.020",
+        "analysisId": 159224634,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B01.458.001",
+        "analysisId": 15828,
+        "biomaterialCode": "206",
+        "biomaterialId": 4876584
+      },
+      {
+        "analysisCode": "70.086",
+        "analysisId": 93485135,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "70.027",
+        "analysisId": 93485158,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B01.077.002",
+        "analysisId": 28089,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.090",
+        "analysisId": 1886176,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.433.006",
+        "analysisId": 15860,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "10401",
+        "analysisId": 40608171,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.085",
+        "analysisId": 1886174,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.582.005",
+        "analysisId": 214649017,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.134.006",
+        "analysisId": 1748453,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.172.005",
+        "analysisId": 7673034,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.248.006",
+        "analysisId": 15906,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.163.006",
+        "analysisId": 193748050,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.293.002",
+        "analysisId": 15706,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.269.006",
+        "analysisId": 15904,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.232.006",
+        "analysisId": 15908,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.432.006",
+        "analysisId": 15864,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.527.006",
+        "analysisId": 15862,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.155.002",
+        "analysisId": 15704,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.401.002",
+        "analysisId": 15748,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.287.006",
+        "analysisId": 15902,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.397.002",
+        "analysisId": 15726,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "20.635",
+        "analysisId": 12784523,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.470.006",
+        "analysisId": 15900,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.336.006",
+        "analysisId": 15724,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.340.002",
+        "analysisId": 15768,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.581.005",
+        "analysisId": 208790580,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.482.006",
+        "analysisId": 15866,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.093",
+        "analysisId": 125994309,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.080",
+        "analysisId": 1886166,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.242.005",
+        "analysisId": 15991,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.337.006",
+        "analysisId": 12177702,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.132.006",
+        "analysisId": 1748447,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.484.006",
+        "analysisId": 15837,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.363.002",
+        "analysisId": 15738,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.00.550",
+        "analysisId": 26120116,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.518.006",
+        "analysisId": 144786,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.512.006",
+        "analysisId": 15854,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.305.006",
+        "analysisId": 15776,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.127.006",
+        "analysisId": 15896,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.386.002",
+        "analysisId": 15736,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.369.006",
+        "analysisId": 15856,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.573.005",
+        "analysisId": 16017793,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.504.006",
+        "analysisId": 15778,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B04.308.002",
+        "analysisId": 3910876,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "B04.358.002",
+        "analysisId": 28816578,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 180620789,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль: Подготовка к беременности. Женщины. Полный.",
+    "code": "90.80.055",
+    "shortName": "Профиль подготовка к беременности полный (жен.)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B04.308.002",
+        "analysisId": 3910876,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "B04.358.002",
+        "analysisId": 28816578,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.090",
+        "analysisId": 1886176,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.433.006",
+        "analysisId": 15860,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "10401",
+        "analysisId": 40608171,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.085",
+        "analysisId": 1886174,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.582.005",
+        "analysisId": 214649017,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.172.005",
+        "analysisId": 7673034,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.248.006",
+        "analysisId": 15906,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.163.006",
+        "analysisId": 193748050,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.269.006",
+        "analysisId": 15904,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.232.006",
+        "analysisId": 15908,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.432.006",
+        "analysisId": 15864,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.527.006",
+        "analysisId": 15862,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.287.006",
+        "analysisId": 15902,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "20.635",
+        "analysisId": 12784523,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.336.006",
+        "analysisId": 15724,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.340.002",
+        "analysisId": 15768,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.470.006",
+        "analysisId": 15900,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.581.005",
+        "analysisId": 208790580,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.482.006",
+        "analysisId": 15866,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.093",
+        "analysisId": 125994309,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.080",
+        "analysisId": 1886166,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.242.005",
+        "analysisId": 15991,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.132.006",
+        "analysisId": 1748447,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.363.002",
+        "analysisId": 15738,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.484.006",
+        "analysisId": 15837,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "40.00.550",
+        "analysisId": 26120116,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.518.006",
+        "analysisId": 144786,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.512.006",
+        "analysisId": 15854,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.305.006",
+        "analysisId": 15776,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.127.006",
+        "analysisId": 15896,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.386.002",
+        "analysisId": 15736,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.369.006",
+        "analysisId": 15856,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.504.006",
+        "analysisId": 15778,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.573.005",
+        "analysisId": 16017793,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B01.077.002",
+        "analysisId": 28089,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "70.086",
+        "analysisId": 93485135,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "70.027",
+        "analysisId": 93485158,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      },
+      {
+        "analysisCode": "B01.458.001",
+        "analysisId": 15828,
+        "biomaterialCode": "206",
+        "biomaterialId": 4876584
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 180620701,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль: Подготовка к беременности. Женщины. Базовый.",
+    "code": "90.80.056",
+    "shortName": "Профиль подготовка к беременности базовый (жен.)",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B01.458.001",
+        "analysisId": 15828,
+        "biomaterialCode": "206",
+        "biomaterialId": 4876584
+      },
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B01.077.002",
+        "analysisId": 28089,
+        "biomaterialCode": "204",
+        "biomaterialId": 10017
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.433.006",
+        "analysisId": 15860,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.242.005",
+        "analysisId": 15991,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.132.006",
+        "analysisId": 1748447,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.248.006",
+        "analysisId": 15906,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.269.006",
+        "analysisId": 15904,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.363.002",
+        "analysisId": 15738,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.484.006",
+        "analysisId": 15837,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.232.006",
+        "analysisId": 15908,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.512.006",
+        "analysisId": 15854,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.305.006",
+        "analysisId": 15776,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.127.006",
+        "analysisId": 15896,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.527.006",
+        "analysisId": 15862,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.287.006",
+        "analysisId": 15902,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "20.635",
+        "analysisId": 12784523,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.386.002",
+        "analysisId": 15736,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.470.006",
+        "analysisId": 15900,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.369.006",
+        "analysisId": 15856,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.482.006",
+        "analysisId": 15866,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B06.504.006",
+        "analysisId": 15778,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "70.022",
+        "analysisId": 68682712,
+        "biomaterialCode": "205",
+        "biomaterialId": 1315079
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 25340840,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Аллергопрофиль \"Горячие напитки\"",
+    "code": "90.95.000",
+    "shortName": "Горячие напитки аллергопрофиль",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "25.00.105",
+        "analysisId": 5907866,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "25.00.140",
+        "analysisId": 5907901,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "25.00.135",
+        "analysisId": 5907896,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "25.00.136",
+        "analysisId": 5907897,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "25.00.110",
+        "analysisId": 5907871,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "25.00.042",
+        "analysisId": 5907803,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 63308924,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Аллергопрофиль - Горячие напитки (акция до 50%)",
+    "code": "90.95.001",
+    "shortName": "Аллергопрофиль - Горячие напитки",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "25.00.105",
+        "analysisId": 5907866,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "25.00.140",
+        "analysisId": 5907901,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "25.00.135",
+        "analysisId": 5907896,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "25.00.136",
+        "analysisId": 5907897,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "25.00.110",
+        "analysisId": 5907871,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "25.00.042",
+        "analysisId": 5907803,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 214828987,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Профиль Постковидный",
+    "code": "90.96.000",
+    "analysisGroupCode": "Г103",
+    "analysisGroupId": 214873422,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "1151",
+        "analysisId": 16005,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B04.358.002",
+        "analysisId": 28816578,
+        "biomaterialCode": "586",
+        "biomaterialId": 15962
+      },
+      {
+        "analysisCode": "B03.293.002",
+        "analysisId": 15706,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.363.002",
+        "analysisId": 15738,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.335.002",
+        "analysisId": 15740,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.115.002",
+        "analysisId": 15788,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.435.002",
+        "analysisId": 15732,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.398.002",
+        "analysisId": 15730,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.155.002",
+        "analysisId": 15704,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B03.386.002",
+        "analysisId": 15736,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 128481216,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Иммунофенотипирование \"Панель для определения иммунного статуса (6 пар)\" в крови методом проточной цитофлуориметрии",
+    "code": "B06.570.008",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.570.008_",
+        "analysisId": 128481155,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B02.110.002",
+        "analysisId": 39907572,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 214692410,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Панель для определения иммунного статуса (6 пар) в крови методом проточной цитофлуориметрии + Общий анализ кроки",
+    "code": "B06.570.008.1",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "Conclusion1",
+        "analysisId": 128481130,
+        "biomaterialCode": "",
+        "biomaterialId": 128481093
+      },
+      {
+        "analysisCode": "B06.570.008_",
+        "analysisId": 128481155,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B02.110.002",
+        "analysisId": 39907572,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 214692414,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Панель для определения иммунного статуса (6 пар) в крови методом проточной цитофлуориметрии + Общий анализ кроки + Забор крови",
+    "code": "B06.570.008.2",
+    "analysisGroupCode": "Г024",
+    "analysisGroupId": 2470441,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B06.570.008_",
+        "analysisId": 128481155,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "B02.110.002",
+        "analysisId": 39907572,
+        "biomaterialCode": "585",
+        "biomaterialId": 27668
+      },
+      {
+        "analysisCode": "Conclusion1",
+        "analysisId": 128481130,
+        "biomaterialCode": "",
+        "biomaterialId": 128481093
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 214821046,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Комплексное исследование на вирус COVID19 (ПЦР + суммарные антитела)",
+    "code": "B09.863.020.5",
+    "analysisGroupCode": "Г094",
+    "analysisGroupId": 214872978,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B09.863.020",
+        "analysisId": 214767046,
+        "biomaterialCode": "ScrapingNasoph-Oroph",
+        "biomaterialId": 214769265
+      },
+      {
+        "analysisCode": "B09.863.020.2",
+        "analysisId": 214771015,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      }
+    ],
+    "fields":
+    [
+      {
+        "fieldCode": "PurpOfEpidSur_code",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "ForPreventivePurposes_code",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "HasSymptomsCOVID",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "ProbeStatus_code",
+        "mandatory": true
+      },
+      {
+        "fieldCode": "Address",
+        "mandatory": true
+      },
+      {
+        "fieldCode": "DiagnosisName",
+        "mandatory": true
+      },
+      {
+        "fieldCode": "FIOWhoCollected",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "FamilyStatus_Dic_code",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "PlaceOfStudyOrWork",
+        "mandatory": true
+      },
+      {
+        "fieldCode": "AccordToEpidId_code",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "Translit_Name",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "ContactWhoCollected",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "DocumentNumber",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "iin",
+        "mandatory": false
+      }
+    ],
+    "workingDaysMode": 0
+  },
+  {
+    "id": 214851446,
+    "updateTime": "2022-04-26T14:59:00+06:00",
+    "updateVersion": 40,
+    "name": "Комплексное исследование на вирус COVID19 (ПЦР + суммарные антитела) (акцияю)",
+    "code": "B09.863.020.7",
+    "analysisGroupCode": "Г094",
+    "analysisGroupId": 214872978,
+    "panelAnalyses":
+    [
+      {
+        "analysisCode": "B09.863.020.2",
+        "analysisId": 214771015,
+        "biomaterialCode": "585",
+        "biomaterialId": 10016
+      },
+      {
+        "analysisCode": "B09.863.020",
+        "analysisId": 214767046,
+        "biomaterialCode": "ScrapingNasoph-Oroph",
+        "biomaterialId": 214769265
+      }
+    ],
+    "fields":
+    [
+      {
+        "fieldCode": "ContactWhoCollected",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "FamilyStatus_Dic_code",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "PlaceOfStudyOrWork",
+        "mandatory": true
+      },
+      {
+        "fieldCode": "FIOWhoCollected",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "HasSymptomsCOVID",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "ForPreventivePurposes_code",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "Translit_Name",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "Address",
+        "mandatory": true
+      },
+      {
+        "fieldCode": "DocumentNumber",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "ProbeStatus_code",
+        "mandatory": true
+      },
+      {
+        "fieldCode": "AccordToEpidId_code",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "DiagnosisName",
+        "mandatory": true
+      },
+      {
+        "fieldCode": "PurpOfEpidSur_code",
+        "mandatory": false
+      },
+      {
+        "fieldCode": "iin",
+        "mandatory": false
+      }
+    ],
+    "workingDaysMode": 0
+  }
+]

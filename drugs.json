@@ -1,0 +1,716 @@
+[
+  {
+    "id": 17768591,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Pristinamycin",
+    "code": "1"
+  },
+  {
+    "id": 8561913,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Amp/Sulbactam",
+    "code": "A/S"
+  },
+  {
+    "id": 8561914,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Amikacin",
+    "code": "AK"
+  },
+  {
+    "id": 8561915,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Ampicillin",
+    "code": "AM"
+  },
+  {
+    "id": 8561916,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Amoxicillin",
+    "code": "AMX"
+  },
+  {
+    "id": 8561917,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Amox/K Clav",
+    "code": "AUG"
+  },
+  {
+    "id": 8562006,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Итраконазол",
+    "code": "AY001"
+  },
+  {
+    "id": 8562007,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Кетоконазол",
+    "code": "AY002"
+  },
+  {
+    "id": 8562008,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Клотримазол",
+    "code": "AY003"
+  },
+  {
+    "id": 8562009,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Натамицин",
+    "code": "AY004"
+  },
+  {
+    "id": 8562010,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Нистатин",
+    "code": "AY005"
+  },
+  {
+    "id": 8562011,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Тербинафин",
+    "code": "AY006"
+  },
+  {
+    "id": 8562012,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Флюконазол",
+    "code": "AY007"
+  },
+  {
+    "id": 8561918,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Azlocillin",
+    "code": "AZ"
+  },
+  {
+    "id": 8561919,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Azithromycin",
+    "code": "AZI"
+  },
+  {
+    "id": 8561920,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Aztreonam",
+    "code": "AZT"
+  },
+  {
+    "id": 8561921,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "BLSE",
+    "code": "BSE"
+  },
+  {
+    "id": 8561922,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Chloramphenicol",
+    "code": "C"
+  },
+  {
+    "id": 8561923,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Ceftriaxone",
+    "code": "CAX"
+  },
+  {
+    "id": 8561924,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Ceftazidime",
+    "code": "CAZ"
+  },
+  {
+    "id": 8561925,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Ceftazidime/K Clavulanate",
+    "code": "CAZ/CA"
+  },
+  {
+    "id": 8561926,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Carbenicillin",
+    "code": "CB"
+  },
+  {
+    "id": 8561927,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Clindamycin",
+    "code": "CD"
+  },
+  {
+    "id": 8561928,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefdinir",
+    "code": "CDN"
+  },
+  {
+    "id": 8561929,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cephalothin",
+    "code": "CF"
+  },
+  {
+    "id": 8561930,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefonicid",
+    "code": "CFC"
+  },
+  {
+    "id": 8561931,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefixime",
+    "code": "CFE"
+  },
+  {
+    "id": 8561932,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefamandole",
+    "code": "CFM"
+  },
+  {
+    "id": 8561933,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefoperazone",
+    "code": "CFP"
+  },
+  {
+    "id": 8561934,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefaclor",
+    "code": "CFR"
+  },
+  {
+    "id": 8561935,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefsulodin",
+    "code": "CFS"
+  },
+  {
+    "id": 8561936,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefotaxime",
+    "code": "CFT"
+  },
+  {
+    "id": 8561937,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefotaxime/K Clavulanate",
+    "code": "CFT CA"
+  },
+  {
+    "id": 8561938,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefoxitin",
+    "code": "CFX"
+  },
+  {
+    "id": 8561939,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefoxitin Screen",
+    "code": "CFXS"
+  },
+  {
+    "id": 8561940,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefazolin",
+    "code": "CFZ"
+  },
+  {
+    "id": 8561941,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Colistin",
+    "code": "CL"
+  },
+  {
+    "id": 8561942,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Clarithromycin",
+    "code": "CLA"
+  },
+  {
+    "id": 8561943,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cinoxacin",
+    "code": "CN"
+  },
+  {
+    "id": 8561944,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Ciprofloxacin",
+    "code": "CP"
+  },
+  {
+    "id": 8561945,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefpodoxime",
+    "code": "CPD"
+  },
+  {
+    "id": 8561946,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefepime",
+    "code": "CPE"
+  },
+  {
+    "id": 8561947,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefuroxime",
+    "code": "CRM"
+  },
+  {
+    "id": 8561948,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Cefotetan",
+    "code": "CTN"
+  },
+  {
+    "id": 8561949,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Ceftizoxime",
+    "code": "CZ"
+  },
+  {
+    "id": 8561950,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Daptomycin",
+    "code": "DAP"
+  },
+  {
+    "id": 8561951,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Doxycycline",
+    "code": "DOX"
+  },
+  {
+    "id": 8561952,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Erythromycin",
+    "code": "E"
+  },
+  {
+    "id": 8561953,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "ESBL Ceftazidime",
+    "code": "ECAZ"
+  },
+  {
+    "id": 8561954,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "ESBL Cefotaxime",
+    "code": "ECFT"
+  },
+  {
+    "id": 8561955,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "ESBL-a Scrn",
+    "code": "ESA"
+  },
+  {
+    "id": 8561956,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "ESBL-b Scrn",
+    "code": "ESB"
+  },
+  {
+    "id": 8561957,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Ertapenem",
+    "code": "ETP"
+  },
+  {
+    "id": 8561958,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Fusidic Acid",
+    "code": "FA"
+  },
+  {
+    "id": 8561959,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Nitrofurantoin",
+    "code": "FD"
+  },
+  {
+    "id": 8561960,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Fosfomycin",
+    "code": "FOS"
+  },
+  {
+    "id": 8561961,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Gatifloxacin",
+    "code": "GAT"
+  },
+  {
+    "id": 8561962,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Gemifloxacin",
+    "code": "GEM"
+  },
+  {
+    "id": 8561963,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Gentamicin",
+    "code": "GM"
+  },
+  {
+    "id": 8561964,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Grepafloxacin",
+    "code": "GRX"
+  },
+  {
+    "id": 8561965,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Inducible Clindamycin",
+    "code": "ICD"
+  },
+  {
+    "id": 8561966,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Imipenem",
+    "code": "IMP"
+  },
+  {
+    "id": 18842290,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Josamycin",
+    "code": "J"
+  },
+  {
+    "id": 8561967,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Kanamycin",
+    "code": "K"
+  },
+  {
+    "id": 8561968,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Kanamycin Synergy",
+    "code": "KS"
+  },
+  {
+    "id": 8561969,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Lincomycin",
+    "code": "LIN"
+  },
+  {
+    "id": 8561970,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Lomefloxacin",
+    "code": "LMF"
+  },
+  {
+    "id": 8561971,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Loracarbef",
+    "code": "LOR"
+  },
+  {
+    "id": 8561972,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Levofloxacin",
+    "code": "LVX"
+  },
+  {
+    "id": 8561973,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Linezolid",
+    "code": "LZD"
+  },
+  {
+    "id": 8561974,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Mecillinam",
+    "code": "MEC"
+  },
+  {
+    "id": 8561975,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Meropenem",
+    "code": "MER"
+  },
+  {
+    "id": 8561976,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Minocycline",
+    "code": "MIN"
+  },
+  {
+    "id": 8561977,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Mupirocin",
+    "code": "MUP"
+  },
+  {
+    "id": 8561978,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Moxifloxacin",
+    "code": "MXF"
+  },
+  {
+    "id": 8561979,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Mezlocillin",
+    "code": "MZ"
+  },
+  {
+    "id": 8561980,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Nalidixic Acid",
+    "code": "NA"
+  },
+  {
+    "id": 8561981,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Netilmicin",
+    "code": "NT"
+  },
+  {
+    "id": 8561982,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Norfloxacin",
+    "code": "NXN"
+  },
+  {
+    "id": 8561983,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Ofloxacin",
+    "code": "OFL"
+  },
+  {
+    "id": 8561984,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Oxacillin",
+    "code": "OX"
+  },
+  {
+    "id": 8561985,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Penicillin",
+    "code": "P"
+  },
+  {
+    "id": 8561986,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Pip/Tazo",
+    "code": "P T"
+  },
+  {
+    "id": 8561987,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Pefloxacin",
+    "code": "PEF"
+  },
+  {
+    "id": 8561988,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Piperacillin",
+    "code": "PI"
+  },
+  {
+    "id": 8561989,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Pipemidic Acid",
+    "code": "PPA"
+  },
+  {
+    "id": 8561990,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Pristinamycin",
+    "code": "PRS"
+  },
+  {
+    "id": 8561991,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Rifampin",
+    "code": "RIF"
+  },
+  {
+    "id": 8561992,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Sparfloxacin",
+    "code": "SFX"
+  },
+  {
+    "id": 8561993,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Streptomycin",
+    "code": "ST"
+  },
+  {
+    "id": 8561994,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Sulfamethoxazole",
+    "code": "SX"
+  },
+  {
+    "id": 8561995,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Synercid",
+    "code": "SYN"
+  },
+  {
+    "id": 8561996,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Trimethoprim",
+    "code": "T"
+  },
+  {
+    "id": 8561997,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Trimeth/Sulfamethoxazole",
+    "code": "T/S"
+  },
+  {
+    "id": 8561998,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Tetracycline",
+    "code": "TE"
+  },
+  {
+    "id": 8561999,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Teicoplanin",
+    "code": "TEI"
+  },
+  {
+    "id": 8562000,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Tigecycline",
+    "code": "TGC"
+  },
+  {
+    "id": 8562001,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Ticarcillin",
+    "code": "TI"
+  },
+  {
+    "id": 8562002,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Ticar/K Clav",
+    "code": "TIM"
+  },
+  {
+    "id": 8562003,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Tobramycin",
+    "code": "TO"
+  },
+  {
+    "id": 8562004,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Trovafloxacin",
+    "code": "TVA"
+  },
+  {
+    "id": 8562005,
+    "updateTime": "2022-04-26T14:04:35+06:00",
+    "updateVersion": 38,
+    "name": "Vancomycin",
+    "code": "VA"
+  }
+]

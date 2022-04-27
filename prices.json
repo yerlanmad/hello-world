@@ -1,0 +1,256 @@
+[
+  {
+    "serviceId": 15908,
+    "serviceCode": "B06.232.006",
+    "price": 920,
+    "minDuration": 1,
+    "maxDuration": 1,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 920,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 39907511,
+    "serviceCode": "B03.389.002",
+    "price": 10,
+    "minDuration": 1,
+    "maxDuration": 1,
+    "durationUnit": 2,
+    "allowCito": false
+  },
+  {
+    "serviceId": 1315102,
+    "serviceCode": "B09.820.020",
+    "price": 1000,
+    "minDuration": 2,
+    "maxDuration": 2,
+    "durationUnit": 2,
+    "allowCito": false
+  },
+  {
+    "serviceId": 15902,
+    "serviceCode": "B06.287.006",
+    "price": 1600,
+    "minDuration": 2,
+    "maxDuration": 2,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 1600,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 96549393,
+    "serviceCode": "20.35.000.070",
+    "price": 40,
+    "minDuration": 7,
+    "maxDuration": 7,
+    "durationUnit": 2,
+    "allowCito": false
+  },
+  {
+    "serviceId": 15900,
+    "serviceCode": "B06.470.006",
+    "price": 2000,
+    "minDuration": 1,
+    "maxDuration": 1,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 2000,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 15894,
+    "serviceCode": "B06.276.006",
+    "price": 1600,
+    "minDuration": 2,
+    "maxDuration": 2,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 1600,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 15912,
+    "serviceCode": "40.070",
+    "price": 560,
+    "minDuration": 7,
+    "maxDuration": 7,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 560,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 15904,
+    "serviceCode": "B06.269.006",
+    "price": 1280,
+    "minDuration": 1,
+    "maxDuration": 1,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 1280,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 15985,
+    "serviceCode": "B06.235.005",
+    "price": 1000,
+    "minDuration": 3,
+    "maxDuration": 5,
+    "durationUnit": 2,
+    "allowCito": false
+  },
+  {
+    "serviceId": 15987,
+    "serviceCode": "B06.219.005",
+    "price": 560,
+    "minDuration": 3,
+    "maxDuration": 5,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 560,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 214744563,
+    "serviceCode": "B09.798.017",
+    "price": 100,
+    "durationUnit": 2,
+    "allowCito": false
+  },
+  {
+    "serviceId": 214429977,
+    "serviceCode": "B08.737.001",
+    "price": 1000,
+    "minDuration": 6,
+    "maxDuration": 6,
+    "durationUnit": 2,
+    "allowCito": false
+  },
+  {
+    "serviceId": 214732816,
+    "serviceCode": "B06.125.005",
+    "price": 1500,
+    "durationUnit": 2,
+    "allowCito": false
+  },
+  {
+    "serviceId": 1886174,
+    "serviceCode": "40.085",
+    "price": 560,
+    "minDuration": 3,
+    "maxDuration": 5,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 560,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 1886176,
+    "serviceCode": "40.090",
+    "price": 560,
+    "minDuration": 5,
+    "maxDuration": 7,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 560,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 214723253,
+    "serviceCode": "71.120",
+    "price": 1020,
+    "durationUnit": 2,
+    "allowCito": false
+  },
+  {
+    "serviceId": 15910,
+    "serviceCode": "40.065",
+    "price": 560,
+    "minDuration": 7,
+    "maxDuration": 7,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 560,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 2595078,
+    "serviceCode": "11291",
+    "price": 200,
+    "minDuration": 1,
+    "maxDuration": 1,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 200,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 16001,
+    "serviceCode": "1149",
+    "price": 30,
+    "minDuration": 1,
+    "maxDuration": 1,
+    "durationUnit": 2,
+    "allowCito": false
+  },
+  {
+    "serviceId": 214767046,
+    "serviceCode": "B09.863.020",
+    "price": 100,
+    "durationUnit": 2,
+    "allowCito": false
+  },
+  {
+    "serviceId": 15896,
+    "serviceCode": "B06.127.006",
+    "price": 1700,
+    "minDuration": 1,
+    "maxDuration": 1,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 1700,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 1886166,
+    "serviceCode": "40.080",
+    "price": 560,
+    "minDuration": 5,
+    "maxDuration": 7,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 560,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 214732792,
+    "serviceCode": "B06.469.005",
+    "price": 1500,
+    "durationUnit": 2,
+    "allowCito": false
+  },
+  {
+    "serviceId": 15906,
+    "serviceCode": "B06.248.006",
+    "price": 920,
+    "minDuration": 2,
+    "maxDuration": 2,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 920,
+    "citoDurationUnit": 1
+  },
+  {
+    "serviceId": 15989,
+    "serviceCode": "B06.263.005",
+    "price": 560,
+    "minDuration": 3,
+    "maxDuration": 5,
+    "durationUnit": 2,
+    "allowCito": true,
+    "citoPrice": 560,
+    "citoDurationUnit": 1
+  }
+]
